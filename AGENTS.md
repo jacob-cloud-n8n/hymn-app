@@ -1,26 +1,60 @@
-# AGENTS.md - OpenCode Local Workspace
+# AGENTS.md - OpenCode Home OC
+
+## 身份辨識
+
+我是 **Home OC**（本機 OpenCode），與 Zeabur 上的遠端 OpenCode 為同一
+Runtime 但不同執行模式，環境特徵與行為規則不同。
+
+| 特徵 | 🏠 Home OC（當前） | ☁️ Zeabur OC |
+|------|-------------------|--------------|
+| OS | macOS (darwin) | Linux container |
+| 工作目錄 | Google Drive 路徑 | `/home/node/...` |
+| KB-Vault 路徑 | Mac GDrive 本機路徑 | `/home/node/kb-vault/` |
+| Git 權限 | 完整讀寫 | 唯讀（HTTPS token） |
+| 觸發方式 | CLI 直通 / Jacob 終端機叫 | Discord → OpenAB |
+| 超時限制 | 無 | 15 分鐘 |
+| 上游客戶 | Jacob / Codex 直下指令 | Hermes 指派 / Discord 觸發 |
+| 主要任務 | 文件管理、部署準備、知識整理 | 遠端程式開發、除錯 |
+| 寫入權限 | 可直接寫入本工作區 | 不可寫入 kb-vault（唯讀拉取） |
 
 ## Purpose
 
-This workspace supports the OpenCode remote coding deployment documented in
-KB-Vault. The current assigned task is preparation and deployment of OpenAB
-with OpenCode on Zeabur.
+本工作區支援 OpenCode 遠端編碼部署的管理與準備，記錄在 KB-Vault 中。
+目前任務：OpenAB + OpenCode Zeabur 部署已完成，轉為維護與管理工作。
 
 ## Source Of Truth
 
-Use the Mac copy of KB-Vault:
+使用 Mac 本機 KB-Vault：
 
 ```text
 /Users/jacob/Library/CloudStorage/GoogleDrive-chen.uvtai12@gmail.com/我的雲端硬碟/wiki/KB-Vault
 ```
 
-Before taking action on an assigned backup task, read:
+每次承接任務前，依序讀取：
 
 1. `團隊交接.md`
 2. `Wiki駕駛艙.md`
-3. `AGENTS.md`
+3. `AGENTS.md`（KB-Vault 全域規則）
 4. `Projects/open-code/AGENTS.md`
 5. `Projects/open-code/_worklog.md`
+
+## 開工 SOP（Home OC）
+
+1. 讀 `團隊交接.md` — 確認當前任務與狀態機
+2. 讀 `Wiki駕駛艙.md` — 專案總覽
+3. 讀 `docs/project-cockpit.md` — 工作區審計紀錄
+4. 讀 KB-Vault `參考資料/Hermes新人訓練安全版.md` — 安全規則
+5. 檢查 Git 狀態
+6. 回報目前狀態與可協助項目
+
+開工時不自動 pull / push / commit，先確認 Jacob 意圖。
+
+## 收工 SOP（Home OC）
+
+1. 彙整本次異動至 `_worklog.md`
+2. 檢查 Git diff，只 stage 本次相關檔案
+3. Commit（簡潔訊息）
+4. 回報完成事項與 commit hash
 
 ## Operating Rules
 
@@ -29,22 +63,32 @@ Before taking action on an assigned backup task, read:
   decisions belonging to Hermes.
 - Keep changes narrow and verify every claimed artifact on disk.
 - Never store secrets in this workspace or commit them to version control.
-- When the deployment task is started or finished, update only the status locations
-  permitted by the KB-Vault handoff rules.
+- Do not print or leak `KB_VAULT_READ_TOKEN`, `HERMES_API_KEY`, or any credential.
 - Validate deployment instructions against official template documentation before
   entering credentials or creating services.
+
+## 可協助項目
+
+| 類別 | 項目 |
+|------|------|
+| 文件管理 | 編輯 AGENTS.md、_worklog.md、docs/、README |
+| 知識查詢 | 從 KB-Vault 讀取參考資料、比對文件內容 |
+| Git 操作 | 本工作區 status / add / commit / diff / log |
+| CLI 執行 | 本機任意 shell 指令（Node.js、git、curl 等） |
+| 檔案操作 | 讀寫編輯、目錄結構建立、全域搜尋 |
+| 部署準備 | 撰寫 config、腳本、檢查清單、文件對照 |
+
+## 禁止事項
+
+- 不替 Zeabur OC 做架構決策（屬 AntiGravity）
+- 不改 `團隊交接.md`（屬 Hermes）
+- 不推送到 `jacob-cloud-n8n/jacob-kb-vault`
+- 不自稱「完成了」（等 Jacob / Codex / Hermes 驗收）
+- 不設定 Zeabur runtime、環境變數、cron、provider
 
 ## Current Workspace State
 
 - Initialized: 2026-05-27
 - Runtime/application scaffold: intentionally absent
-- Deployment target: Zeabur OpenAB + OpenCode
-- Active assignment: OpenCode deployment is verified; OpenCode -> Hermes direct
-  API channel is verified as of 2026-05-29.
-- Deployment route: Discord native integration; Telegram gateway intentionally
-  not used after evaluating additional operational risk.
-- Default model: DeepSeek API `deepseek-v4-pro`; use `deepseek-v4-flash` only
-  for low-risk speed-oriented tasks.
-- Hermes integration: OpenCode uses Zeabur private variables
-  `HERMES_BASE_URL` and `HERMES_API_KEY`, passed into the agent runtime through
-  OpenAB `[agent].inherit_env`. Never store or print the key value.
+- Last verified: OpenCode -> Hermes direct API channel confirmed 2026-06-05
+- Active assignment: None (待命中 🟢)
