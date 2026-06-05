@@ -104,6 +104,25 @@ must not be used for deployment.
 - Remaining documentation task: sync KB-Vault handoff and OpenCode worklog so
   task #4 no longer appears pending.
 
+## Shutdown Summary - 2026-06-05
+
+- Resolved OpenCode KB-Vault sync drift: OpenCode now uses HTTPS with
+  `KB_VAULT_READ_TOKEN` read-only access and `git pull --rebase` from
+  `/home/node/kb-vault` instead of SSH, because the Zeabur container lacks the
+  `ssh` binary.
+- Confirmed OpenAB agent env propagation requires `[agent].inherit_env`;
+  `KB_VAULT_READ_TOKEN` must be allowlisted there before OpenCode can read it.
+- Documented the incident in KB-Vault:
+  `知識庫/Tools/團隊踩坑與故障排除紀錄.md` and
+  `Projects/open-code/_worklog.md`, pushed as
+  `fa623ab docs: record opencode kb-vault sync fix`.
+- Added the durable OpenCode sync rule to
+  `Projects/open-code/AGENTS.md`, pushed as
+  `7f8a5fd docs: add opencode kb-vault sync rule`.
+- Archived the reusable procedure as local Codex skill:
+  `/Users/jacob/.codex/skills/opencode-kb-sync/SKILL.md`.
+- No secrets were recorded in local project files, KB-Vault, or the skill.
+
 ## Created Locally
 
 - `README.md` - purpose, current state, and startup reading order
