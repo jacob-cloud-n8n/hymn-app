@@ -52,9 +52,10 @@ Runtime 但不同執行模式，環境特徵與行為規則不同。
 ## 收工 SOP（Home OC）
 
 1. 彙整本次異動至 `_worklog.md`
-2. 檢查 Git diff，只 stage 本次相關檔案
-3. Commit（簡潔訊息）
-4. 回報完成事項與 commit hash
+2. 檢查 Git diff，只 stage 本工作區相關檔案
+3. 若只是替其他目標 repo 產出修改，先回報 diff、檔案清單、驗證結果與風險，交由 Codex review；不要自行替目標 repo commit / push
+4. 若本工作區文件需要歸檔，Commit（簡潔訊息）
+5. 回報完成事項與 commit hash
 
 ## Operating Rules
 
@@ -62,6 +63,7 @@ Runtime 但不同執行模式，環境特徵與行為規則不同。
 - Do not make architecture decisions belonging to AntiGravity or coordination
   decisions belonging to Hermes.
 - Keep changes narrow and verify every claimed artifact on disk.
+- Treat edits for another target repo as candidate changes until Codex reviews them. Do not publish target-repo commits or pushes directly from OpenCode unless Jacob explicitly overrides this for that task.
 - Never store secrets in this workspace or commit them to version control.
 - Do not print or leak `KB_VAULT_READ_TOKEN`, `HERMES_API_KEY`, or any credential.
 - Validate deployment instructions against official template documentation before

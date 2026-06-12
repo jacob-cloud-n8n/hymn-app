@@ -13,6 +13,7 @@
 3. **無 Placeholders 鐵律**：所有代碼與 UI 實作，嚴格禁止留下任何 `// TODO`、`// placeholder` 或測試用假資料，必須為高保真生產環境品質。
 
 ## 👥 協作防呆與 15 分鐘超時機制
+* **Codex Review Gate**：OpenCode 的產物預設是候選 patch；完成後交付 diff、檔案清單、驗證結果與風險給 Codex。目標 repo 的 commit / push 由 Codex review 後執行，除非 Jacob 對單次任務明確授權 OpenCode 發布。
 * **唯讀限制**：遠端模式下（Zeabur），OpenCode 使用 `KB_VAULT_READ_TOKEN` 透過 HTTPS 對私有庫 `kb-vault` 做**唯讀**拉取；Zeabur 容器缺少 `ssh`，不要改回 SSH Deploy Key。嚴格禁止越權 Push。
 * **15 分鐘超時**：單次任務上限為 15 分鐘。若逾時未完成，必須自動標記 `❌ [超時]` 並將任務退回 `⏳` 等待區。
 * **遠端開工必 Pull**：Zeabur OC 每次被喚醒執行指令前，必須先在 `/home/node/kb-vault` 執行 `git pull --rebase`。Home OC 本機開工則依 `AGENTS.md`，先回報狀態，不自動 pull / push / commit。
