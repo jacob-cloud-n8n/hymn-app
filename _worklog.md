@@ -55,3 +55,23 @@
   - 產出 HTML 分析報告（含 AI 觀點總結）
   - 限制：需登入/JS 渲染的網站無法抓取
 - **結果**：done 🟢
+
+## 2026-06-11 — 製作 05-workflow 教學版 ✅
+
+- **目標**：將 `skills/05-workflow/SKILL.md` 改寫為學員教學版
+- **執行項目**：
+  - 讀取原始 `SKILL.md`（開工/收工/初始化流程）
+  - 補充「為什麼」說明、不做會怎樣的對照表
+  - 新增敏感資料檢查清單（關鍵字搜尋、`.env` 檢查）
+  - 新增收工筆記模板（可直接複製貼上）
+  - 新增 Git 正確操作（`git add -p`、不用 `git add .`）
+  - 新增 `.gitignore` 範例、`ANTIGRAVITY.md` 範本、`README.md` 範本
+  - 新增常見錯誤對照表（7 個常見錯誤 + 正確做法）
+  - 新增中斷/暫停處理流程
+  - 新增開工/收工口訣快速參考卡
+  - **另存為** `skills/05-workflow/SKILL-teaching.md`，**不覆蓋原始檔**
+- **結果**：
+  - 新檔案：`2026 antig2/skills/05-workflow/SKILL-teaching.md`（267 行）
+  - 原始檔案 `SKILL.md` 保留未更動
+  - Commit：`870430f`（已提交至 `2026 antig2`）
+  - 狀態：done 🟢

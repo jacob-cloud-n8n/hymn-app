@@ -8,8 +8,8 @@ Runtime 但不同執行模式，環境特徵與行為規則不同。
 | 特徵 | 🏠 Home OC（當前） | ☁️ Zeabur OC |
 |------|-------------------|--------------|
 | OS | macOS (darwin) | Linux container |
-| 工作目錄 | Google Drive 路徑 | `/home/node/...` |
-| KB-Vault 路徑 | Mac GDrive 本機路徑 | `/home/node/kb-vault/` |
+| 工作目錄 | `/Users/jacob/Projects/2026 open-code` | `/home/node/...` |
+| KB-Vault 路徑 | Mac KB-Vault 本機路徑 | `/home/node/kb-vault/` |
 | Git 權限 | 完整讀寫 | 唯讀（HTTPS token） |
 | 觸發方式 | CLI 直通 / Jacob 終端機叫 | Discord → OpenAB |
 | 超時限制 | 無 | 15 分鐘 |
@@ -24,7 +24,7 @@ Runtime 但不同執行模式，環境特徵與行為規則不同。
 
 ## Source Of Truth
 
-使用 Mac 本機 KB-Vault：
+使用 Mac 本機 KB-Vault。此 KB-Vault 目前仍在 Google Drive 同步區；這和 OpenCode 專案工作目錄已遷移到 `/Users/jacob/Projects/2026 open-code` 是兩件事，不要把任務工作目錄切回舊專案路徑。
 
 ```text
 /Users/jacob/Library/CloudStorage/GoogleDrive-chen.uvtai12@gmail.com/我的雲端硬碟/wiki/KB-Vault
