@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>詩歌點播</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+    <!-- PAGE: DIALPAD -->
+    <div id="page-dialpad" class="page active">
+        <div class="tabs">
+            <button class="tab-btn active" data-cat="大本詩歌">詩歌</button>
+            <button class="tab-btn" data-cat="新歌頌詠">新歌</button>
+            <button class="tab-btn" data-cat="新詩">新詩</button>
+            <button class="tab-btn" data-cat="補充本">補充</button>
+        </div>
+        <div class="display-area">
+            <div class="input-display" id="input-display"></div>
+            <div class="preview-name" id="preview-name"></div>
+        </div>
+        <div class="keypad">
+            <div class="key-row">
+                <button class="key" data-key="1">1</button>
+                <button class="key" data-key="2">2</button>
+                <button class="key" data-key="3">3</button>
+            </div>
+            <div class="key-row">
+                <button class="key" data-key="4">4</button>
+                <button class="key" data-key="5">5</button>
+                <button class="key" data-key="6">6</button>
+            </div>
+            <div class="key-row">
+                <button class="key" data-key="7">7</button>
+                <button class="key" data-key="8">8</button>
+                <button class="key" data-key="9">9</button>
+            </div>
+            <div class="key-row">
+                <button class="key" data-key="附">附</button>
+                <button class="key" data-key="0">0</button>
+                <button class="key key-del" data-key="del">⌫</button>
+            </div>
+        </div>
+        <button class="btn-play" id="btn-play">點 播</button>
+        <div class="queue-bar" id="queue-bar">
+            <span class="queue-count" id="queue-count">詩歌 0 首</span>
+            <span class="queue-play">▶</span>
+        </div>
+    </div>
+
+    <!-- PAGE: LYRICS -->
+    <div id="page-lyrics" class="page">
+        <div class="lyrics-header">
+            <button class="btn-back" id="btn-back">▼</button>
+            <div class="lyrics-title-wrap">
+                <div class="lyrics-category" id="lyrics-category">補充本</div>
+                <div class="lyrics-number" id="lyrics-number">15 首</div>
+                <div class="lyrics-name" id="lyrics-name">我要不住讚美稱頌神</div>
+            </div>
+        </div>
+        <div class="lyrics-meta" id="lyrics-meta">G 大調 4/4</div>
+        <div class="lyrics-body" id="lyrics-body"></div>
+        <div class="lyrics-controls">
+            <button class="lyrics-btn" id="btn-list">☰</button>
+            <button class="lyrics-btn" id="btn-prev">◀</button>
+            <button class="lyrics-btn" id="btn-next">▶</button>
+        </div>
+    </div>
+
+    <!-- PAGE: CATALOG -->
+    <div id="page-catalog" class="page">
+        <div class="cat-header">
+            <button class="btn-back-cat" id="btn-back-cat">←</button>
+            <input type="text" class="cat-search" id="cat-search" placeholder="搜尋歌名或編號...">
+        </div>
+        <div class="cat-tabs">
+            <button class="cat-tab active" data-cat="大本詩歌">詩歌</button>
+            <button class="cat-tab" data-cat="新歌頌詠">新歌</button>
+            <button class="cat-tab" data-cat="新詩">新詩</button>
+            <button class="cat-tab" data-cat="補充本">補充</button>
+        </div>
+        <div class="cat-list" id="cat-list"></div>
+    </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -9,4 +9,5 @@ build/
 .cache/
 coverage/
 *.log
+tmp_pdf_txt/
 
