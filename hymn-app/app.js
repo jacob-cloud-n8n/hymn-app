@@ -178,15 +178,27 @@ function showLyrics(song) {
 }
 
 function prevSong() {
-    if (state.queue.length === 0) return;
-    state.queueIndex = (state.queueIndex - 1 + state.queue.length) % state.queue.length;
-    showLyrics(state.queue[state.queueIndex]);
+    navigateSong(-1);
 }
 
 function nextSong() {
+    navigateSong(1);
+}
+
+function navigateSong(direction) {
     if (state.queue.length === 0) return;
-    state.queueIndex = (state.queueIndex + 1) % state.queue.length;
-    showLyrics(state.queue[state.queueIndex]);
+
+    const songs = getSongs(state.category);
+    const currentSong = state.queue[state.queueIndex];
+    const currentIndex = songs.findIndex(song => song.id === currentSong.id);
+    if (currentIndex === -1 || songs.length === 0) return;
+
+    const nextIndex = (currentIndex + direction + songs.length) % songs.length;
+    const nextSong = songs[nextIndex];
+    state.queue = [nextSong];
+    state.queueIndex = 0;
+    updateQueueBar();
+    showLyrics(nextSong);
 }
 
 // ===== CATALOG =====
