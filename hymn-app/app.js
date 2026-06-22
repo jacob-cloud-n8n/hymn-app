@@ -278,6 +278,11 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     document.getElementById('btn-prev').addEventListener('click', prevSong);
     document.getElementById('btn-next').addEventListener('click', nextSong);
+    document.getElementById('btn-home').addEventListener('click', () => {
+        state.input = '';
+        updatePreview();
+        showPage('dialpad');
+    });
 
     // Catalog back
     document.getElementById('btn-back-cat').addEventListener('click', () => {

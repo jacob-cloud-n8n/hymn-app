@@ -1,1757 +1,4718 @@
 [
   {
     "id": "001",
-    "title": "頌讚三一神－祂的計劃",
-    "category": "頌讚三一神"
+    "title": "但願榮耀歸於聖父",
+    "category": "頌讚三一神",
+    "subcategory": "祂的計劃"
   },
   {
     "id": "002",
-    "title": "頌讚三一神－祂的啟示",
-    "category": "頌讚三一神"
+    "title": "榮耀榮耀榮耀",
+    "category": "頌讚三一神",
+    "subcategory": "祂的啟示"
   },
   {
     "id": "003",
-    "title": "頌讚三一神－對祂的讚美",
-    "category": "頌讚三一神"
+    "title": "榮耀榮耀歸於聖父",
+    "category": "頌讚三一神",
+    "subcategory": "對祂的讚美"
+  },
+  {
+    "id": "004",
+    "title": "聖哉聖哉聖哉",
+    "category": "頌讚三一神",
+    "subcategory": "對祂的讚美"
+  },
+  {
+    "id": "005",
+    "title": "讚美父乃祝福之源",
+    "category": "頌讚三一神",
+    "subcategory": "對祂的讚美"
   },
   {
     "id": "006",
-    "title": "敬拜父－是愛與光",
-    "category": "敬拜父"
+    "title": "神，你是愛，你也是光",
+    "category": "敬拜父",
+    "subcategory": "是愛與光"
   },
   {
     "id": "007",
-    "title": "敬拜父－是永存者",
-    "category": "敬拜父"
+    "title": "哦神你是永遠父",
+    "category": "敬拜父",
+    "subcategory": "是永存者"
   },
   {
     "id": "008",
-    "title": "敬拜父－是靈",
-    "category": "敬拜父"
+    "title": "父阿，你是萬靈之靈",
+    "category": "敬拜父",
+    "subcategory": "是靈"
   },
   {
     "id": "009",
-    "title": "敬拜父－是生命的源頭",
-    "category": "敬拜父"
+    "title": "哦神你是生命源頭",
+    "category": "敬拜父",
+    "subcategory": "是生命的源頭"
   },
   {
     "id": "010",
-    "title": "敬拜父－祂的超越",
-    "category": "敬拜父"
+    "title": "哦神你是何超越",
+    "category": "敬拜父",
+    "subcategory": "祂的超越"
   },
   {
     "id": "011",
-    "title": "敬拜父－祂的新鮮",
-    "category": "敬拜父"
+    "title": "哦父你是常新的神",
+    "category": "敬拜父",
+    "subcategory": "祂的新鮮"
   },
   {
     "id": "012",
-    "title": "敬拜父－祂的偉大",
-    "category": "敬拜父"
+    "title": "當我觀賞父你廣大的創造",
+    "category": "敬拜父",
+    "subcategory": "祂的偉大"
   },
   {
     "id": "013",
-    "title": "敬拜父－祂的信實",
-    "category": "敬拜父"
+    "title": "你的信實廣大",
+    "category": "敬拜父",
+    "subcategory": "祂的信實"
+  },
+  {
+    "id": "014",
+    "title": "你的信實何等堅定",
+    "category": "敬拜父",
+    "subcategory": "祂的信實"
   },
   {
     "id": "015",
-    "title": "敬拜父－祂的公義",
-    "category": "敬拜父"
+    "title": "若無流血就有赦罪",
+    "category": "敬拜父",
+    "subcategory": "祂的公義"
+  },
+  {
+    "id": "016",
+    "title": "我們讚美你的公義",
+    "category": "敬拜父",
+    "subcategory": "祂的公義"
+  },
+  {
+    "id": "017",
+    "title": "當我有罪充滿痛苦",
+    "category": "敬拜父",
+    "subcategory": "祂的公義"
+  },
+  {
+    "id": "018",
+    "title": "父神為著你的公義",
+    "category": "敬拜父",
+    "subcategory": "祂的公義"
   },
   {
     "id": "019",
-    "title": "敬拜父－祂的聖潔",
-    "category": "敬拜父"
+    "title": "聖父我們向你下拜",
+    "category": "敬拜父",
+    "subcategory": "祂的聖潔"
   },
   {
     "id": "020",
-    "title": "敬拜父－祂的智慧",
-    "category": "敬拜父"
+    "title": "深哉、富哉，你的智慧",
+    "category": "敬拜父",
+    "subcategory": "祂的智慧"
+  },
+  {
+    "id": "021",
+    "title": "父你智慧同你恩典",
+    "category": "敬拜父",
+    "subcategory": "祂的智慧"
   },
   {
     "id": "022",
-    "title": "敬拜父－祂的憐憫",
-    "category": "敬拜父"
+    "title": "父我讚美你的憐憫",
+    "category": "敬拜父",
+    "subcategory": "祂的憐憫"
+  },
+  {
+    "id": "023",
+    "title": "父你憐憫已向我們顯明",
+    "category": "敬拜父",
+    "subcategory": "祂的憐憫"
   },
   {
     "id": "024",
-    "title": "敬拜父－祂的愛",
-    "category": "敬拜父"
+    "title": "哦神的愛何其豐富",
+    "category": "敬拜父",
+    "subcategory": "祂的愛"
+  },
+  {
+    "id": "025",
+    "title": "父阿你賜何等慈愛",
+    "category": "敬拜父",
+    "subcategory": "祂的愛"
+  },
+  {
+    "id": "026",
+    "title": "你愛所給雖然甚多",
+    "category": "敬拜父",
+    "subcategory": "祂的愛"
+  },
+  {
+    "id": "027",
+    "title": "神阿你為何故",
+    "category": "敬拜父",
+    "subcategory": "祂的愛"
+  },
+  {
+    "id": "028",
+    "title": "神哪你在聖所之內",
+    "category": "敬拜父",
+    "subcategory": "祂的愛"
+  },
+  {
+    "id": "029",
+    "title": "我們從前所有",
+    "category": "敬拜父",
+    "subcategory": "祂的愛"
   },
   {
     "id": "030",
-    "title": "敬拜父－祂的心意",
-    "category": "敬拜父"
+    "title": "父阿我們向你下拜",
+    "category": "敬拜父",
+    "subcategory": "祂的心意"
   },
   {
     "id": "031",
-    "title": "敬拜父－祂的揀選",
-    "category": "敬拜父"
+    "title": "父阿久在創世之前",
+    "category": "敬拜父",
+    "subcategory": "祂的揀選"
   },
   {
     "id": "032",
-    "title": "敬拜父－祂的預定",
-    "category": "敬拜父"
+    "title": "榮耀父神讚美你",
+    "category": "敬拜父",
+    "subcategory": "祂的豫定"
   },
   {
     "id": "033",
-    "title": "敬拜父－祂的救贖",
-    "category": "敬拜父"
+    "title": "父神阿你在羔羊裏",
+    "category": "敬拜父",
+    "subcategory": "祂的救贖"
+  },
+  {
+    "id": "034",
+    "title": "榮耀歸於父神",
+    "category": "敬拜父",
+    "subcategory": "祂的救贖"
+  },
+  {
+    "id": "035",
+    "title": "神我讚美你差遣你的愛子",
+    "category": "敬拜父",
+    "subcategory": "祂的救贖"
+  },
+  {
+    "id": "036",
+    "title": "神的兒女有權利",
+    "category": "敬拜父",
+    "subcategory": "祂的救贖"
+  },
+  {
+    "id": "037",
+    "title": "阿爸父阿我們現在",
+    "category": "敬拜父",
+    "subcategory": "祂的救贖"
+  },
+  {
+    "id": "038",
+    "title": "阿爸我們來頌讚你",
+    "category": "敬拜父",
+    "subcategory": "祂的救贖"
+  },
+  {
+    "id": "039",
+    "title": "阿爸父神我們前來",
+    "category": "敬拜父",
+    "subcategory": "祂的救贖"
+  },
+  {
+    "id": "040",
+    "title": "沒有血沒有壇",
+    "category": "敬拜父",
+    "subcategory": "祂的救贖"
+  },
+  {
+    "id": "041",
+    "title": "哦神是你召我們",
+    "category": "敬拜父",
+    "subcategory": "祂的救贖"
   },
   {
     "id": "042",
-    "title": "敬拜父－祂兒子名分中的恩典",
-    "category": "敬拜父"
+    "title": "父神我今敬拜你",
+    "category": "敬拜父",
+    "subcategory": "祂兒子名分中的恩典"
+  },
+  {
+    "id": "043",
+    "title": "父阿你是愛大無極",
+    "category": "敬拜父",
+    "subcategory": "祂兒子名分中的恩典"
+  },
+  {
+    "id": "044",
+    "title": "父阿兒女稱頌你名",
+    "category": "敬拜父",
+    "subcategory": "祂的救贖"
+  },
+  {
+    "id": "045",
+    "title": "父神我們稱頌你",
+    "category": "敬拜父",
+    "subcategory": "祂兒子名分中的恩典"
   },
   {
     "id": "046",
-    "title": "敬拜父－眾子的讚美",
-    "category": "敬拜父"
+    "title": "慈愛父神對於你的大愛",
+    "category": "敬拜父",
+    "subcategory": "眾子的讚美"
+  },
+  {
+    "id": "047",
+    "title": "阿爸我們進前來",
+    "category": "敬拜父",
+    "subcategory": "眾子的讚美"
+  },
+  {
+    "id": "048",
+    "title": "宴筵方過我們尚感甜美",
+    "category": "敬拜父",
+    "subcategory": "眾子的讚美"
+  },
+  {
+    "id": "049",
+    "title": "父阿我們在你面前拜禮",
+    "category": "敬拜父",
+    "subcategory": "眾子的讚美"
+  },
+  {
+    "id": "050",
+    "title": "我父、我神，你愛在子顯明",
+    "category": "敬拜父",
+    "subcategory": "眾子的讚美"
+  },
+  {
+    "id": "051",
+    "title": "親愛父神，我們向你歌唱",
+    "category": "敬拜父",
+    "subcategory": "眾子的讚美"
+  },
+  {
+    "id": "052",
+    "title": "靠著我們救主流血作祭",
+    "category": "敬拜父",
+    "subcategory": "眾子的讚美"
   },
   {
     "id": "053",
-    "title": "讚美主－祂的神性",
-    "category": "讚美主"
+    "title": "讚美你是神的活道",
+    "category": "讚美主",
+    "subcategory": "祂的神性"
+  },
+  {
+    "id": "054",
+    "title": "哦主你是永遠之道",
+    "category": "讚美主",
+    "subcategory": "祂的神性"
+  },
+  {
+    "id": "055",
+    "title": "哦主，你是神的活話",
+    "category": "讚美主",
+    "subcategory": "祂的神性"
   },
   {
     "id": "056",
-    "title": "讚美主－祂的人性",
-    "category": "讚美主"
+    "title": "恩主耶穌我敬拜你",
+    "category": "讚美主",
+    "subcategory": "祂的人性"
+  },
+  {
+    "id": "057",
+    "title": "哦主你曾成為人子",
+    "category": "讚美主",
+    "subcategory": "祂的人性"
+  },
+  {
+    "id": "058",
+    "title": "哦我神那施愛智慧",
+    "category": "讚美主",
+    "subcategory": "祂的人性"
+  },
+  {
+    "id": "059",
+    "title": "哦何感人的故事",
+    "category": "讚美主",
+    "subcategory": "祂的人性"
   },
   {
     "id": "060",
-    "title": "讚美主－祂的名",
-    "category": "讚美主"
+    "title": "耶穌我愛這名",
+    "category": "讚美主",
+    "subcategory": "祂的名"
+  },
+  {
+    "id": "061",
+    "title": "恩主耶穌你名我是",
+    "category": "讚美主",
+    "subcategory": "祂的名"
+  },
+  {
+    "id": "062",
+    "title": "主耶穌我愛你名",
+    "category": "讚美主",
+    "subcategory": "祂的名"
+  },
+  {
+    "id": "063",
+    "title": "耶穌你名何等芬芳",
+    "category": "讚美主",
+    "subcategory": "祂的名"
+  },
+  {
+    "id": "064",
+    "title": "我主你名稱為耶穌",
+    "category": "讚美主",
+    "subcategory": "祂的名"
+  },
+  {
+    "id": "065",
+    "title": "耶穌大名榮耀有能",
+    "category": "讚美主",
+    "subcategory": "祂的名"
+  },
+  {
+    "id": "066",
+    "title": "耶穌這名甜美芬芳",
+    "category": "讚美主",
+    "subcategory": "祂的名"
+  },
+  {
+    "id": "067",
+    "title": "我們愛唱基督神子",
+    "category": "讚美主",
+    "subcategory": "祂的名"
+  },
+  {
+    "id": "068",
+    "title": "頌讚主尊名",
+    "category": "讚美主",
+    "subcategory": "祂的名"
+  },
+  {
+    "id": "069",
+    "title": "耶穌這名超乎萬名",
+    "category": "讚美主",
+    "subcategory": "祂的名"
+  },
+  {
+    "id": "070",
+    "title": "耶穌這名何其甘甜",
+    "category": "讚美主",
+    "subcategory": "祂的名"
+  },
+  {
+    "id": "071",
+    "title": "我們知你已復起",
+    "category": "讚美主",
+    "subcategory": "祂的名"
   },
   {
     "id": "072",
-    "title": "讚美主－祂的永遠性",
-    "category": "讚美主"
+    "title": "主你根源在亙古",
+    "category": "讚美主",
+    "subcategory": "祂的永遠性"
   },
   {
     "id": "073",
-    "title": "讚美主－祂的降卑",
-    "category": "讚美主"
+    "title": "主接納我們的詩歌",
+    "category": "讚美主",
+    "subcategory": "祂的降卑"
   },
   {
     "id": "074",
-    "title": "讚美主－祂的成肉身",
-    "category": "讚美主"
+    "title": "聽阿天使讚高聲",
+    "category": "讚美主",
+    "subcategory": "祂的成肉身"
+  },
+  {
+    "id": "075",
+    "title": "我何等愛祂",
+    "category": "讚美主",
+    "subcategory": "祂的成肉身"
   },
   {
     "id": "076",
-    "title": "讚美主－祂的生平",
-    "category": "讚美主"
+    "title": "主你溫柔所留印記",
+    "category": "讚美主",
+    "subcategory": "祂的生平"
+  },
+  {
+    "id": "077",
+    "title": "你是至高榮耀的神",
+    "category": "讚美主",
+    "subcategory": "祂的生平"
+  },
+  {
+    "id": "078",
+    "title": "你在地上所有行徑",
+    "category": "讚美主",
+    "subcategory": "祂的生平"
+  },
+  {
+    "id": "079",
+    "title": "哦主當我們想到你",
+    "category": "讚美主",
+    "subcategory": "祂的生平"
   },
   {
     "id": "080",
-    "title": "讚美主－祂的受苦",
-    "category": "讚美主"
+    "title": "惟恐我忘客西馬尼",
+    "category": "讚美主",
+    "subcategory": "祂的受苦"
+  },
+  {
+    "id": "081",
+    "title": "耶穌永遠生命之源",
+    "category": "讚美主",
+    "subcategory": "祂的受苦"
+  },
+  {
+    "id": "082",
+    "title": "哦滿了傷痕的頭",
+    "category": "讚美主",
+    "subcategory": "祂的受苦"
+  },
+  {
+    "id": "083",
+    "title": "時已夜半晚星久沉",
+    "category": "讚美主",
+    "subcategory": "祂的受苦"
+  },
+  {
+    "id": "084",
+    "title": "哦主甚麼使你頭垂",
+    "category": "讚美主",
+    "subcategory": "祂的受苦"
   },
   {
     "id": "085",
-    "title": "讚美主－84",
-    "category": "讚美主"
+    "title": "我每靜念那十字架",
+    "category": "讚美主",
+    "subcategory": "祂的受苦"
+  },
+  {
+    "id": "086",
+    "title": "哦主你是無辜",
+    "category": "讚美主",
+    "subcategory": "祂的受苦"
+  },
+  {
+    "id": "087",
+    "title": "讚美救主讚美救主",
+    "category": "讚美主",
+    "subcategory": "祂的受苦"
+  },
+  {
+    "id": "088",
+    "title": "為我為我",
+    "category": "讚美主",
+    "subcategory": "祂的受苦"
+  },
+  {
+    "id": "089",
+    "title": "主，你的愛竟然不辭",
+    "category": "讚美主",
+    "subcategory": "祂的受苦"
   },
   {
     "id": "090",
-    "title": "讚美主－祂的死",
-    "category": "讚美主"
+    "title": "讚美不盡讚美",
+    "category": "讚美主",
+    "subcategory": "祂的死"
+  },
+  {
+    "id": "091",
+    "title": "祂不能救自己",
+    "category": "讚美主",
+    "subcategory": "祂的死"
+  },
+  {
+    "id": "092",
+    "title": "此時何時孤單之時",
+    "category": "讚美主",
+    "subcategory": "祂的死"
+  },
+  {
+    "id": "093",
+    "title": "哎喲救主真曾流血",
+    "category": "讚美主",
+    "subcategory": "祂的死"
   },
   {
     "id": "094",
-    "title": "讚美主－祂的救贖",
-    "category": "讚美主"
+    "title": "哦你救贖何奇妙",
+    "category": "讚美主",
+    "subcategory": "祂的救贖"
+  },
+  {
+    "id": "095",
+    "title": "這個真是何等甘美的故事",
+    "category": "讚美主",
+    "subcategory": "祂的救贖"
+  },
+  {
+    "id": "096",
+    "title": "神的基督從天至",
+    "category": "讚美主",
+    "subcategory": "祂的救贖"
+  },
+  {
+    "id": "097",
+    "title": "加略山巔救主喪命",
+    "category": "讚美主",
+    "subcategory": "祂的救贖"
+  },
+  {
+    "id": "098",
+    "title": "頌讚聲音何等難得",
+    "category": "讚美主",
+    "subcategory": "祂的救贖"
   },
   {
     "id": "099",
-    "title": "讚美主－祂的復活",
-    "category": "讚美主"
+    "title": "祂躺臥在墳墓",
+    "category": "讚美主",
+    "subcategory": "祂的復活"
+  },
+  {
+    "id": "100",
+    "title": "主已復活死的審判已過",
+    "category": "讚美主",
+    "subcategory": "祂的復活"
+  },
+  {
+    "id": "101",
+    "title": "基督復活阿利路亞",
+    "category": "讚美主",
+    "subcategory": "祂的復活"
+  },
+  {
+    "id": "102",
+    "title": "救主基督已復活",
+    "category": "讚美主",
+    "subcategory": "祂的復活"
+  },
+  {
+    "id": "103",
+    "title": "我的代替未見歸回",
+    "category": "讚美主",
+    "subcategory": "祂的復活"
+  },
+  {
+    "id": "104",
+    "title": "哦主死的領土你曾去走",
+    "category": "讚美主",
+    "subcategory": "祂的復活"
+  },
+  {
+    "id": "105",
+    "title": "阿利路亞祂已復活",
+    "category": "讚美主",
+    "subcategory": "祂的復活"
+  },
+  {
+    "id": "106",
+    "title": "榮耀歸於你，復活得勝子",
+    "category": "讚美主",
+    "subcategory": "祂的復活"
+  },
+  {
+    "id": "107",
+    "title": "耶穌已經出墓來",
+    "category": "讚美主",
+    "subcategory": "祂的復活"
   },
   {
     "id": "108",
-    "title": "讚美主－祂的得勝",
-    "category": "讚美主"
+    "title": "神的基督親愛救主",
+    "category": "讚美主",
+    "subcategory": "祂的得勝"
+  },
+  {
+    "id": "109",
+    "title": "讚美讚美基督得勝",
+    "category": "讚美主",
+    "subcategory": "祂的得勝"
   },
   {
     "id": "110",
-    "title": "讚美主－祂的高舉",
-    "category": "讚美主"
+    "title": "聽哪千萬聲音雷鳴",
+    "category": "讚美主",
+    "subcategory": "祂的高舉"
+  },
+  {
+    "id": "111",
+    "title": "神的兒子親愛救主",
+    "category": "讚美主",
+    "subcategory": "祂的高舉"
+  },
+  {
+    "id": "112",
+    "title": "看那勝者奏凱上升",
+    "category": "讚美主",
+    "subcategory": "祂的高舉"
+  },
+  {
+    "id": "113",
+    "title": "何等權能耶穌尊名",
+    "category": "讚美主",
+    "subcategory": "祂的高舉"
+  },
+  {
+    "id": "114",
+    "title": "看哪冠冕已給羊羔",
+    "category": "讚美主",
+    "subcategory": "祂的高舉"
+  },
+  {
+    "id": "115",
+    "title": "看哪耶穌天上坐著",
+    "category": "讚美主",
+    "subcategory": "祂的高舉"
+  },
+  {
+    "id": "116",
+    "title": "哦主耶穌我心喜樂",
+    "category": "讚美主",
+    "subcategory": "祂的高舉"
+  },
+  {
+    "id": "117",
+    "title": "遠超一切遠超一切",
+    "category": "讚美主",
+    "subcategory": "祂的高舉"
   },
   {
     "id": "118",
-    "title": "讚美主－祂的榮耀",
-    "category": "讚美主"
+    "title": "從前那戴荊棘的頭",
+    "category": "讚美主",
+    "subcategory": "祂的榮耀"
+  },
+  {
+    "id": "119",
+    "title": "榮耀榮耀永遠榮耀",
+    "category": "讚美主",
+    "subcategory": "祂的榮耀"
+  },
+  {
+    "id": "120",
+    "title": "哦主你是萬有的主",
+    "category": "讚美主",
+    "subcategory": "祂的榮耀"
+  },
+  {
+    "id": "121",
+    "title": "看哪何等榮耀情景",
+    "category": "讚美主",
+    "subcategory": "祂的榮耀"
+  },
+  {
+    "id": "122",
+    "title": "我們的靈伏著注視",
+    "category": "讚美主",
+    "subcategory": "祂的榮耀"
+  },
+  {
+    "id": "123",
+    "title": "神的基督榮耀的主",
+    "category": "讚美主",
+    "subcategory": "祂的榮耀"
   },
   {
     "id": "124",
-    "title": "讚美主－祂的國度",
-    "category": "讚美主"
+    "title": "主你乃是王中王",
+    "category": "讚美主",
+    "subcategory": "祂的榮耀"
+  },
+  {
+    "id": "125",
+    "title": "主你是神受膏者",
+    "category": "讚美主",
+    "subcategory": "祂的國度"
   },
   {
     "id": "126",
-    "title": "讚美主－祂的愛",
-    "category": "讚美主"
+    "title": "我的救主你愛為何",
+    "category": "讚美主",
+    "subcategory": "祂的愛"
+  },
+  {
+    "id": "127",
+    "title": "耶穌我主榮耀王",
+    "category": "讚美主",
+    "subcategory": "祂的愛"
+  },
+  {
+    "id": "128",
+    "title": "我今俯伏主面前",
+    "category": "讚美主",
+    "subcategory": "祂的愛"
+  },
+  {
+    "id": "129",
+    "title": "我有一位奇妙救主",
+    "category": "讚美主",
+    "subcategory": "祂的愛"
+  },
+  {
+    "id": "130",
+    "title": "哦主你愛何等深廣",
+    "category": "讚美主",
+    "subcategory": "祂的愛"
+  },
+  {
+    "id": "131",
+    "title": "主當我們飄流曠野",
+    "category": "讚美主",
+    "subcategory": "祂的愛"
+  },
+  {
+    "id": "132",
+    "title": "長似東西無終點",
+    "category": "讚美主",
+    "subcategory": "祂的愛"
+  },
+  {
+    "id": "133",
+    "title": "祂是超乎萬人之上",
+    "category": "讚美主",
+    "subcategory": "祂的愛"
+  },
+  {
+    "id": "134",
+    "title": "你的大愛，過於人所能度",
+    "category": "讚美主",
+    "subcategory": "祂的愛"
   },
   {
     "id": "135",
-    "title": "讚美主－祂的恩典",
-    "category": "讚美主"
+    "title": "哦願我有千萬舌頭",
+    "category": "讚美主",
+    "subcategory": "祂的恩典"
+  },
+  {
+    "id": "136",
+    "title": "樂哉白白恩典",
+    "category": "讚美主",
+    "subcategory": "祂的恩典"
+  },
+  {
+    "id": "137",
+    "title": "恩深逾洋海",
+    "category": "讚美主",
+    "subcategory": "祂的恩典"
   },
   {
     "id": "138",
-    "title": "讚美主－祂的甘甜",
-    "category": "讚美主"
+    "title": "我們心中在珍賞",
+    "category": "讚美主",
+    "subcategory": "祂的甘甜"
   },
   {
     "id": "139",
-    "title": "讚美主－祂的美麗",
-    "category": "讚美主"
+    "title": "甜美登極救主額上",
+    "category": "讚美主",
+    "subcategory": "祂的美麗"
+  },
+  {
+    "id": "140",
+    "title": "主你是那可愛新郎",
+    "category": "讚美主",
+    "subcategory": "祂的美麗"
+  },
+  {
+    "id": "141",
+    "title": "哦主耶穌每想到你",
+    "category": "讚美主",
+    "subcategory": "祂的美麗"
+  },
+  {
+    "id": "142",
+    "title": "涼爽你像柔和微風",
+    "category": "讚美主",
+    "subcategory": "祂的美麗"
+  },
+  {
+    "id": "143",
+    "title": "最美的耶穌",
+    "category": "讚美主",
+    "subcategory": "祂的美麗"
+  },
+  {
+    "id": "144",
+    "title": "我們要從那裏說起",
+    "category": "讚美主",
+    "subcategory": "祂的美麗"
+  },
+  {
+    "id": "145",
+    "title": "耶穌奇妙救主",
+    "category": "讚美主",
+    "subcategory": "祂的美麗"
   },
   {
     "id": "146",
-    "title": "讚美主－祂的配得",
-    "category": "讚美主"
+    "title": "我們當來同聲歡呼",
+    "category": "讚美主",
+    "subcategory": "祂的配得"
+  },
+  {
+    "id": "147",
+    "title": "榮耀歸於我主",
+    "category": "讚美主",
+    "subcategory": "祂的配得"
+  },
+  {
+    "id": "148",
+    "title": "哦主耶穌我的心向著寶座",
+    "category": "讚美主",
+    "subcategory": "祂的配得"
+  },
+  {
+    "id": "149",
+    "title": "我主耶穌惟你是配",
+    "category": "讚美主",
+    "subcategory": "祂的配得"
   },
   {
     "id": "150",
-    "title": "讚美主－祂的萬有包羅性",
-    "category": "讚美主"
+    "title": "哦主你是何等包羅",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
+  },
+  {
+    "id": "151",
+    "title": "我們珍貴你的價值",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
+  },
+  {
+    "id": "152",
+    "title": "主你於我何其豐富",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
+  },
+  {
+    "id": "153",
+    "title": "主你是我照護侍從",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
+  },
+  {
+    "id": "154",
+    "title": "遠在時間尚未起首",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
+  },
+  {
+    "id": "155",
+    "title": "古時一切豫表影像",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
+  },
+  {
+    "id": "156",
+    "title": "恩主你是公義太陽",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
+  },
+  {
+    "id": "157",
+    "title": "你之所是正合我需",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
+  },
+  {
+    "id": "158",
+    "title": "哦主你是阿拉法",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
+  },
+  {
+    "id": "159",
+    "title": "主你乃是那生命樹",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
+  },
+  {
+    "id": "160",
+    "title": "哦主你是神的見證",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
+  },
+  {
+    "id": "161",
+    "title": "哦主於我你是何豐",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
+  },
+  {
+    "id": "162",
+    "title": "我主你是女人後裔",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
+  },
+  {
+    "id": "163",
+    "title": "主你是神的愛子",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
+  },
+  {
+    "id": "164",
+    "title": "恩主你是神的兒子",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
+  },
+  {
+    "id": "165",
+    "title": "你是一切的祭物",
+    "category": "讚美主",
+    "subcategory": "祂的萬有包羅性"
   },
   {
     "id": "166",
-    "title": "讚美主－父的喜悅",
-    "category": "讚美主"
+    "title": "哦主在你名裏聚集",
+    "category": "讚美主",
+    "subcategory": "父的喜悅"
   },
   {
     "id": "167",
-    "title": "讚美主－對祂的滿足",
-    "category": "讚美主"
+    "title": "恩主你是生命源",
+    "category": "讚美主",
+    "subcategory": "對祂的滿足"
+  },
+  {
+    "id": "168",
+    "title": "主耶穌當我們想到",
+    "category": "讚美主",
+    "subcategory": "對祂的滿足"
+  },
+  {
+    "id": "169",
+    "title": "耶穌耶穌最愛救主",
+    "category": "讚美主",
+    "subcategory": "對祂的滿足"
+  },
+  {
+    "id": "170",
+    "title": "恩主我心對你所愛所寶",
+    "category": "讚美主",
+    "subcategory": "對祂的滿足"
+  },
+  {
+    "id": "171",
+    "title": "耶穌只要一想到你",
+    "category": "讚美主",
+    "subcategory": "對祂的滿足"
+  },
+  {
+    "id": "172",
+    "title": "哦主你是人心之樂",
+    "category": "讚美主",
+    "subcategory": "對祂的滿足"
   },
   {
     "id": "173",
-    "title": "讚美主－對祂的記念",
-    "category": "讚美主"
+    "title": "我們照你恩惠話語",
+    "category": "讚美主",
+    "subcategory": "對祂的記念"
+  },
+  {
+    "id": "174",
+    "title": "主舉愛旗遮蓋我們",
+    "category": "讚美主",
+    "subcategory": "對祂的記念"
+  },
+  {
+    "id": "175",
+    "title": "在此分享這福杯",
+    "category": "讚美主",
+    "subcategory": "對祂的記念"
+  },
+  {
+    "id": "176",
+    "title": "在你愛的筵席上",
+    "category": "讚美主",
+    "subcategory": "對祂的記念"
+  },
+  {
+    "id": "177",
+    "title": "哦主這是何等神蹟",
+    "category": "讚美主",
+    "subcategory": "對祂的記念"
+  },
+  {
+    "id": "178",
+    "title": "為這筵席我獻感謝",
+    "category": "讚美主",
+    "subcategory": "對祂的記念"
+  },
+  {
+    "id": "179",
+    "title": "當我注視你這桌子",
+    "category": "讚美主",
+    "subcategory": "對祂的記念"
+  },
+  {
+    "id": "180",
+    "title": "在此我要主與你面對面",
+    "category": "讚美主",
+    "subcategory": "對祂的記念"
+  },
+  {
+    "id": "181",
+    "title": "哦主耶穌藉著餅杯",
+    "category": "讚美主",
+    "subcategory": "對祂的記念"
+  },
+  {
+    "id": "182",
+    "title": "在你首次要顯你死之時",
+    "category": "讚美主",
+    "subcategory": "對祂的記念"
+  },
+  {
+    "id": "183",
+    "title": "咒詛祂受祝福我享",
+    "category": "讚美主",
+    "subcategory": "對祂的記念"
+  },
+  {
+    "id": "184",
+    "title": "主耶穌當那晚間",
+    "category": "讚美主",
+    "subcategory": "對祂的記念"
+  },
+  {
+    "id": "185",
+    "title": "為著這餅我感謝你",
+    "category": "讚美主",
+    "subcategory": "對祂的記念"
+  },
+  {
+    "id": "186",
+    "title": "神聖愛的珍饈",
+    "category": "讚美主",
+    "subcategory": "對祂的記念"
+  },
+  {
+    "id": "187",
+    "title": "為著這餅和這杯",
+    "category": "讚美主",
+    "subcategory": "對祂的記念"
   },
   {
     "id": "188",
-    "title": "讚美主－一般",
-    "category": "讚美主"
+    "title": "榮耀基督太初就有",
+    "category": "讚美主",
+    "subcategory": "一般"
+  },
+  {
+    "id": "189",
+    "title": "美哉善哉羔羊的新歌",
+    "category": "讚美主",
+    "subcategory": "一般"
+  },
+  {
+    "id": "190",
+    "title": "讚美讚美讚美耶穌我救贖主",
+    "category": "讚美主",
+    "subcategory": "一般"
+  },
+  {
+    "id": "191",
+    "title": "那愛我們憐憫我們",
+    "category": "讚美主",
+    "subcategory": "一般"
+  },
+  {
+    "id": "192",
+    "title": "主惟有你",
+    "category": "讚美主",
+    "subcategory": "一般"
+  },
+  {
+    "id": "193",
+    "title": "但願尊貴榮耀豐富",
+    "category": "讚美主",
+    "subcategory": "一般"
   },
   {
     "id": "194",
-    "title": "聖靈的豐滿－實際的靈",
-    "category": "聖靈的豐滿"
+    "title": "神靈今是基督的靈",
+    "category": "聖靈的豐滿",
+    "subcategory": "實際的靈"
   },
   {
     "id": "195",
-    "title": "聖靈的豐滿－內住的靈",
-    "category": "聖靈的豐滿"
+    "title": "聖靈顯在我心房",
+    "category": "聖靈的豐滿",
+    "subcategory": "內住的靈"
   },
   {
     "id": "196",
-    "title": "聖靈的豐滿－耶穌基督的靈",
-    "category": "聖靈的豐滿"
+    "title": "今日我們神的靈",
+    "category": "聖靈的豐滿",
+    "subcategory": "耶穌基督的靈"
   },
   {
     "id": "197",
-    "title": "聖靈的豐滿－保惠師",
-    "category": "聖靈的豐滿"
+    "title": "應當將此消息",
+    "category": "聖靈的豐滿",
+    "subcategory": "保惠師"
   },
   {
     "id": "198",
-    "title": "聖靈的豐滿－恩賜的靈",
-    "category": "聖靈的豐滿"
+    "title": "世人看你不過仍是",
+    "category": "聖靈的豐滿",
+    "subcategory": "恩賜的靈"
+  },
+  {
+    "id": "199",
+    "title": "榮耀的主你曾經從天賜下你聖靈",
+    "category": "聖靈的豐滿",
+    "subcategory": "恩賜的靈"
   },
   {
     "id": "200",
-    "title": "聖靈的豐滿－生命的靈",
-    "category": "聖靈的豐滿"
+    "title": "現今神的聖別之靈",
+    "category": "聖靈的豐滿",
+    "subcategory": "生命的靈"
   },
   {
     "id": "201",
-    "title": "聖靈的豐滿－活水",
-    "category": "聖靈的豐滿"
+    "title": "井阿湧上水來",
+    "category": "聖靈的豐滿",
+    "subcategory": "活水"
+  },
+  {
+    "id": "202",
+    "title": "吩咐磐石發出活水來",
+    "category": "聖靈的豐滿",
+    "subcategory": "活水"
+  },
+  {
+    "id": "203",
+    "title": "生命活水的江河",
+    "category": "聖靈的豐滿",
+    "subcategory": "活水"
+  },
+  {
+    "id": "204",
+    "title": "生命活水在流通",
+    "category": "聖靈的豐滿",
+    "subcategory": "活水"
+  },
+  {
+    "id": "205",
+    "title": "神的活水湧流",
+    "category": "聖靈的豐滿",
+    "subcategory": "活水"
   },
   {
     "id": "206",
-    "title": "聖靈的豐滿－火",
-    "category": "聖靈的豐滿"
+    "title": "主我曾否叫聖靈憂愁",
+    "category": "聖靈的豐滿",
+    "subcategory": "火"
+  },
+  {
+    "id": "207",
+    "title": "焚燒在我心內",
+    "category": "聖靈的豐滿",
+    "subcategory": "火"
+  },
+  {
+    "id": "208",
+    "title": "求你賜下焚燒靈",
+    "category": "聖靈的豐滿",
+    "subcategory": "火"
+  },
+  {
+    "id": "209",
+    "title": "耶穌你的全勝的愛",
+    "category": "聖靈的豐滿",
+    "subcategory": "火"
   },
   {
     "id": "210",
-    "title": "聖靈的豐滿－氣",
-    "category": "聖靈的豐滿"
+    "title": "我是呼出我的愁苦",
+    "category": "聖靈的豐滿",
+    "subcategory": "氣"
+  },
+  {
+    "id": "211",
+    "title": "生命之主向我吹氣",
+    "category": "聖靈的豐滿",
+    "subcategory": "氣"
   },
   {
     "id": "212",
-    "title": "聖靈的豐滿－風",
-    "category": "聖靈的豐滿"
+    "title": "聖靈的大風",
+    "category": "聖靈的豐滿",
+    "subcategory": "風"
+  },
+  {
+    "id": "213",
+    "title": "主阿願你屬天之風",
+    "category": "聖靈的豐滿",
+    "subcategory": "風"
+  },
+  {
+    "id": "214",
+    "title": "哦主現在將我來吹",
+    "category": "聖靈的豐滿",
+    "subcategory": "風"
   },
   {
     "id": "215",
-    "title": "聖靈的豐滿－膏油",
-    "category": "聖靈的豐滿"
+    "title": "奇妙的恩膏住我裏面",
+    "category": "聖靈的豐滿",
+    "subcategory": "膏油"
+  },
+  {
+    "id": "216",
+    "title": "何處灑了贖罪之血",
+    "category": "聖靈的豐滿",
+    "subcategory": "膏油"
   },
   {
     "id": "217",
-    "title": "聖靈的豐滿－充滿",
-    "category": "聖靈的豐滿"
+    "title": "何等榮耀何等福氣",
+    "category": "聖靈的豐滿",
+    "subcategory": "充滿"
+  },
+  {
+    "id": "218",
+    "title": "我願作主活水運河",
+    "category": "聖靈的豐滿",
+    "subcategory": "充滿"
+  },
+  {
+    "id": "219",
+    "title": "主你知道所有乾渴",
+    "category": "聖靈的豐滿",
+    "subcategory": "充滿"
   },
   {
     "id": "220",
-    "title": "聖靈的豐滿－靈浸",
-    "category": "聖靈的豐滿"
+    "title": "我在靈中從靈而生",
+    "category": "聖靈的豐滿",
+    "subcategory": "靈浸"
+  },
+  {
+    "id": "221",
+    "title": "當主基督降生為人",
+    "category": "聖靈的豐滿",
+    "subcategory": "靈浸"
+  },
+  {
+    "id": "222",
+    "title": "接受接受憑信接受",
+    "category": "聖靈的豐滿",
+    "subcategory": "靈浸"
+  },
+  {
+    "id": "223",
+    "title": "主我來就你自由的懇祈",
+    "category": "聖靈的豐滿",
+    "subcategory": "靈浸"
+  },
+  {
+    "id": "224",
+    "title": "救主基督已經高升",
+    "category": "聖靈的豐滿",
+    "subcategory": "靈浸"
+  },
+  {
+    "id": "225",
+    "title": "謙卑俯伏我在此等候",
+    "category": "聖靈的豐滿",
+    "subcategory": "靈浸"
   },
   {
     "id": "226",
-    "title": "聖靈的豐滿－兩方面",
-    "category": "聖靈的豐滿"
+    "title": "主的生命之靈",
+    "category": "聖靈的豐滿",
+    "subcategory": "兩方面"
   },
   {
     "id": "227",
-    "title": "聖靈的豐滿－藉十字架",
-    "category": "聖靈的豐滿"
+    "title": "後是膏油先是血",
+    "category": "聖靈的豐滿",
+    "subcategory": "藉十字架"
+  },
+  {
+    "id": "228",
+    "title": "哦求主救我脫離這個可憐的自己",
+    "category": "聖靈的豐滿",
+    "subcategory": "藉十字架"
   },
   {
     "id": "229",
-    "title": "得救的證實與快樂－在基督裡",
-    "category": "得救的證實與快樂"
+    "title": "我今在基督裏面",
+    "category": "得救的證實與快樂",
+    "subcategory": "在基督裡"
   },
   {
     "id": "230",
-    "title": "得救的證實與快樂－為主所愛",
-    "category": "得救的證實與快樂"
+    "title": "我真歡樂因耶穌愛我",
+    "category": "得救的證實與快樂",
+    "subcategory": "為主所愛"
+  },
+  {
+    "id": "231",
+    "title": "主愛新鮮又甘甜",
+    "category": "得救的證實與快樂",
+    "subcategory": "為主所愛"
+  },
+  {
+    "id": "232",
+    "title": "永遠的愛已愛我",
+    "category": "得救的證實與快樂",
+    "subcategory": "為主所愛"
   },
   {
     "id": "233",
-    "title": "得救的證實與快樂－蒙神赦免",
-    "category": "得救的證實與快樂"
+    "title": "神將我罪丟在背後",
+    "category": "得救的證實與快樂",
+    "subcategory": "蒙神赦免"
   },
   {
     "id": "234",
-    "title": "得救的證實與快樂－在基督裡稱義",
-    "category": "得救的證實與快樂"
+    "title": "救主流血所成救恩",
+    "category": "得救的證實與快樂",
+    "subcategory": "在基督裡稱義"
+  },
+  {
+    "id": "235",
+    "title": "我為甚麼憂懼疑惑",
+    "category": "得救的證實與快樂",
+    "subcategory": "在基督裡稱義"
+  },
+  {
+    "id": "236",
+    "title": "不再定罪何等希奇",
+    "category": "得救的證實與快樂",
+    "subcategory": "在基督裡稱義"
+  },
+  {
+    "id": "237",
+    "title": "神的基督是我的義",
+    "category": "得救的證實與快樂",
+    "subcategory": "在基督裡稱義"
+  },
+  {
+    "id": "238",
+    "title": "基督磐石我所穩踏",
+    "category": "得救的證實與快樂",
+    "subcategory": "在基督裡稱義"
   },
   {
     "id": "239",
-    "title": "得救的證實與快樂－被血所贖",
-    "category": "得救的證實與快樂"
+    "title": "神將我罪歸耶穌",
+    "category": "得救的證實與快樂",
+    "subcategory": "被血所贖"
   },
   {
     "id": "240",
-    "title": "得救的證實與快樂－與神和好",
-    "category": "得救的證實與快樂"
+    "title": "坦然無懼來到神前",
+    "category": "得救的證實與快樂",
+    "subcategory": "與神和好"
   },
   {
     "id": "241",
-    "title": "得救的證實與快樂－生命改變",
-    "category": "得救的證實與快樂"
+    "title": "我生命有何等奇妙的大改變",
+    "category": "得救的證實與快樂",
+    "subcategory": "生命改變"
+  },
+  {
+    "id": "242",
+    "title": "喜樂滿我心",
+    "category": "得救的證實與快樂",
+    "subcategory": "生命改變"
   },
   {
     "id": "243",
-    "title": "得救的證實與快樂－被主釋放",
-    "category": "得救的證實與快樂"
+    "title": "我知何時我的罪擔全脫落",
+    "category": "得救的證實與快樂",
+    "subcategory": "被主釋放"
+  },
+  {
+    "id": "244",
+    "title": "釋放釋放榮耀釋放",
+    "category": "得救的證實與快樂",
+    "subcategory": "被主釋放"
+  },
+  {
+    "id": "245",
+    "title": "前在罪中為罪奴僕",
+    "category": "得救的證實與快樂",
+    "subcategory": "被主釋放"
+  },
+  {
+    "id": "246",
+    "title": "榮耀的釋放",
+    "category": "得救的證實與快樂",
+    "subcategory": "被主釋放"
   },
   {
     "id": "247",
-    "title": "得救的證實與快樂－藉恩得救",
-    "category": "得救的證實與快樂"
+    "title": "驚人恩典何等甘甜",
+    "category": "得救的證實與快樂",
+    "subcategory": "藉恩得救"
+  },
+  {
+    "id": "248",
+    "title": "恩典彀我用",
+    "category": "得救的證實與快樂",
+    "subcategory": "藉恩得救"
+  },
+  {
+    "id": "249",
+    "title": "我要看見祂面對面",
+    "category": "得救的證實與快樂",
+    "subcategory": "藉恩得救"
+  },
+  {
+    "id": "250",
+    "title": "來阿你這萬福泉源",
+    "category": "得救的證實與快樂",
+    "subcategory": "藉恩得救"
+  },
+  {
+    "id": "251",
+    "title": "我是個罪人蒙主恩",
+    "category": "得救的證實與快樂",
+    "subcategory": "藉恩得救"
   },
   {
     "id": "252",
-    "title": "得救的證實與快樂－因基督得滿足",
-    "category": "得救的證實與快樂"
+    "title": "前在埃及為罪奴僕",
+    "category": "得救的證實與快樂",
+    "subcategory": "因基督得滿足"
+  },
+  {
+    "id": "253",
+    "title": "在我心中歡奏一音樂",
+    "category": "得救的證實與快樂",
+    "subcategory": "因基督得滿足"
+  },
+  {
+    "id": "254",
+    "title": "我今飲於永不乾涸的活泉",
+    "category": "得救的證實與快樂",
+    "subcategory": "因基督得滿足"
+  },
+  {
+    "id": "255",
+    "title": "我心中奏一甜美音樂",
+    "category": "得救的證實與快樂",
+    "subcategory": "因基督得滿足"
+  },
+  {
+    "id": "256",
+    "title": "基督使我心中喜樂",
+    "category": "得救的證實與快樂",
+    "subcategory": "因基督得滿足"
+  },
+  {
+    "id": "257",
+    "title": "阿利路亞我已得到",
+    "category": "得救的證實與快樂",
+    "subcategory": "因基督得滿足"
+  },
+  {
+    "id": "258",
+    "title": "以前我心苦楚悲傷",
+    "category": "得救的證實與快樂",
+    "subcategory": "因基督得滿足"
   },
   {
     "id": "259",
-    "title": "得救的證實與快樂－主的保守",
-    "category": "得救的證實與快樂"
+    "title": "惟知道我所信的是誰",
+    "category": "得救的證實與快樂",
+    "subcategory": "主的保守"
   },
   {
     "id": "260",
-    "title": "得救的證實與快樂－穩固的根基",
-    "category": "得救的證實與快樂"
+    "title": "穩固的根基",
+    "category": "得救的證實與快樂",
+    "subcategory": "穩固的根基"
   },
   {
     "id": "261",
-    "title": "得救的證實與快樂－一般",
-    "category": "得救的證實與快樂"
+    "title": "哦來蒙恩群眾",
+    "category": "得救的證實與快樂",
+    "subcategory": "一般"
+  },
+  {
+    "id": "262",
+    "title": "榮耀之光福樂之光",
+    "category": "得救的證實與快樂",
+    "subcategory": "一般"
+  },
+  {
+    "id": "263",
+    "title": "快樂日快樂日",
+    "category": "得救的證實與快樂",
+    "subcategory": "一般"
+  },
+  {
+    "id": "264",
+    "title": "真奧祕真奧祕",
+    "category": "得救的證實與快樂",
+    "subcategory": "一般"
+  },
+  {
+    "id": "265",
+    "title": "這是我見證",
+    "category": "得救的證實與快樂",
+    "subcategory": "一般"
+  },
+  {
+    "id": "266",
+    "title": "我無技巧前來領會",
+    "category": "得救的證實與快樂",
+    "subcategory": "一般"
+  },
+  {
+    "id": "267",
+    "title": "廣大憐憫",
+    "category": "得救的證實與快樂",
+    "subcategory": "一般"
+  },
+  {
+    "id": "268",
+    "title": "哦我魂可無恐",
+    "category": "得救的證實與快樂",
+    "subcategory": "一般"
   },
   {
     "id": "269",
-    "title": "羨慕－神",
-    "category": "羨慕"
+    "title": "我如困鹿切慕溪水",
+    "category": "羨慕",
+    "subcategory": "神"
+  },
+  {
+    "id": "270",
+    "title": "我心所追求乃是神自己",
+    "category": "羨慕",
+    "subcategory": "神"
   },
   {
     "id": "271",
-    "title": "羨慕－神作生命",
-    "category": "羨慕"
+    "title": "全能的神非受造的生命",
+    "category": "羨慕",
+    "subcategory": "神作生命"
   },
   {
     "id": "272",
-    "title": "羨慕－神顯於我",
-    "category": "羨慕"
+    "title": "曠野之中為著神",
+    "category": "羨慕",
+    "subcategory": "神顯於我"
   },
   {
     "id": "273",
-    "title": "羨慕－順服神",
-    "category": "羨慕"
+    "title": "神你正在重排我的前途",
+    "category": "羨慕",
+    "subcategory": "順服神"
   },
   {
     "id": "274",
-    "title": "羨慕－基督",
-    "category": "羨慕"
+    "title": "神聖之愛遠超眾愛",
+    "category": "羨慕",
+    "subcategory": "基督"
+  },
+  {
+    "id": "275",
+    "title": "親愛主寶貝主",
+    "category": "羨慕",
+    "subcategory": "基督"
+  },
+  {
+    "id": "276",
+    "title": "你若取去我的心愛",
+    "category": "羨慕",
+    "subcategory": "基督"
+  },
+  {
+    "id": "277",
+    "title": "請進哦請進",
+    "category": "羨慕",
+    "subcategory": "基督"
+  },
+  {
+    "id": "278",
+    "title": "哦超過眾光之光",
+    "category": "羨慕",
+    "subcategory": "基督"
+  },
+  {
+    "id": "279",
+    "title": "哦主帶著豐富請進",
+    "category": "羨慕",
+    "subcategory": "基督"
   },
   {
     "id": "280",
-    "title": "羨慕－基督作生命",
-    "category": "羨慕"
+    "title": "哦主你是我的生命",
+    "category": "羨慕",
+    "subcategory": "基督作生命"
   },
   {
     "id": "281",
-    "title": "羨慕－愛主",
-    "category": "羨慕"
+    "title": "願我愛你更深",
+    "category": "羨慕",
+    "subcategory": "愛主"
   },
   {
     "id": "282",
-    "title": "羨慕－與主交通",
-    "category": "羨慕"
+    "title": "如果我的道路引我去受苦",
+    "category": "羨慕",
+    "subcategory": "與主交通"
+  },
+  {
+    "id": "283",
+    "title": "願我的所愛到這裏來",
+    "category": "羨慕",
+    "subcategory": "與主交通"
+  },
+  {
+    "id": "284",
+    "title": "沒有間隔主",
+    "category": "羨慕",
+    "subcategory": "與主交通"
+  },
+  {
+    "id": "285",
+    "title": "帶我上到更高之山",
+    "category": "羨慕",
+    "subcategory": "與主交通"
+  },
+  {
+    "id": "286",
+    "title": "我需你主我需你",
+    "category": "羨慕",
+    "subcategory": "與主交通"
+  },
+  {
+    "id": "287",
+    "title": "吸引我近更近",
+    "category": "羨慕",
+    "subcategory": "與主交通"
+  },
+  {
+    "id": "288",
+    "title": "與我同住夕陽西沉迅速",
+    "category": "羨慕",
+    "subcategory": "與主交通"
   },
   {
     "id": "289",
-    "title": "羨慕－基督的尊大",
-    "category": "羨慕"
+    "title": "願你為大，哦主耶穌",
+    "category": "羨慕",
+    "subcategory": "基督的尊大"
   },
   {
     "id": "290",
-    "title": "羨慕－活在主面前",
-    "category": "羨慕"
+    "title": "主耶穌，我羨慕活在你面前",
+    "category": "羨慕",
+    "subcategory": "活在主面前"
   },
   {
     "id": "291",
-    "title": "羨慕－主的引領",
-    "category": "羨慕"
+    "title": "救主求你引領我",
+    "category": "羨慕",
+    "subcategory": "主的引導"
+  },
+  {
+    "id": "292",
+    "title": "領我領我",
+    "category": "羨慕",
+    "subcategory": "主的引導"
+  },
+  {
+    "id": "293",
+    "title": "求你揀選我道路",
+    "category": "羨慕",
+    "subcategory": "主的引領"
+  },
+  {
+    "id": "294",
+    "title": "緊握我手",
+    "category": "羨慕",
+    "subcategory": "主的引領"
+  },
+  {
+    "id": "295",
+    "title": "只要是你道路",
+    "category": "羨慕",
+    "subcategory": "主的引領"
   },
   {
     "id": "296",
-    "title": "羨慕－更多認識主",
-    "category": "羨慕"
+    "title": "更多認識基督",
+    "category": "羨慕",
+    "subcategory": "更多認識主"
   },
   {
     "id": "297",
-    "title": "羨慕－在主裡的長進",
-    "category": "羨慕"
+    "title": "求主天天扶持我",
+    "category": "羨慕",
+    "subcategory": "在主裡的長進"
+  },
+  {
+    "id": "298",
+    "title": "願你逐日維持的力",
+    "category": "羨慕",
+    "subcategory": "在主裡的長進"
   },
   {
     "id": "299",
-    "title": "羨慕－從主得餵養",
-    "category": "羨慕"
+    "title": "天程旅客的糧食",
+    "category": "羨慕",
+    "subcategory": "從主得餧養"
   },
   {
     "id": "300",
-    "title": "羨慕－像主",
-    "category": "羨慕"
+    "title": "變成主的形狀",
+    "category": "羨慕",
+    "subcategory": "像主"
+  },
+  {
+    "id": "301",
+    "title": "哦我要像你",
+    "category": "羨慕",
+    "subcategory": "像主"
   },
   {
     "id": "302",
-    "title": "羨慕－靈強",
-    "category": "羨慕"
+    "title": "主阿何等奧祕",
+    "category": "羨慕",
+    "subcategory": "靈強"
   },
   {
     "id": "303",
-    "title": "羨慕－為主受苦",
-    "category": "羨慕"
+    "title": "祂的臉面祂的天使常看見",
+    "category": "羨慕",
+    "subcategory": "為主受苦"
   },
   {
     "id": "304",
-    "title": "羨慕－彰顯主",
-    "category": "羨慕"
+    "title": "從我活出你的自己",
+    "category": "羨慕",
+    "subcategory": "彰顯主"
   },
   {
     "id": "305",
-    "title": "羨慕－為主捨已",
-    "category": "羨慕"
+    "title": "父我知道我的一生",
+    "category": "羨慕",
+    "subcategory": "為主捨己"
   },
   {
     "id": "306",
-    "title": "羨慕－為主而活",
-    "category": "羨慕"
+    "title": "哦耶穌我主我救主",
+    "category": "羨慕",
+    "subcategory": "為主而活"
   },
   {
     "id": "307",
-    "title": "羨慕－洗淨",
-    "category": "羨慕"
+    "title": "主耶穌我真羨慕能得完全",
+    "category": "羨慕",
+    "subcategory": "洗淨"
   },
   {
     "id": "308",
-    "title": "羨慕－主的喜悅",
-    "category": "羨慕"
+    "title": "世上景色我已一閱",
+    "category": "羨慕",
+    "subcategory": "主的喜悅"
   },
   {
     "id": "309",
-    "title": "羨慕－認識肉體",
-    "category": "羨慕"
+    "title": "求主啟示主自己",
+    "category": "羨慕",
+    "subcategory": "認識肉體"
+  },
+  {
+    "id": "310",
+    "title": "一生聰明未遇敵手",
+    "category": "羨慕",
+    "subcategory": "認識肉體"
   },
   {
     "id": "311",
-    "title": "羨慕－脫離己",
-    "category": "羨慕"
+    "title": "主阿求你將我看",
+    "category": "羨慕",
+    "subcategory": "脫離己"
+  },
+  {
+    "id": "312",
+    "title": "恩主你是我的安息",
+    "category": "羨慕",
+    "subcategory": "脫離己"
+  },
+  {
+    "id": "313",
+    "title": "求主倒空我脫自己",
+    "category": "羨慕",
+    "subcategory": "脫離己"
+  },
+  {
+    "id": "314",
+    "title": "有一仇敵其力潛伏",
+    "category": "羨慕",
+    "subcategory": "脫離己"
+  },
+  {
+    "id": "315",
+    "title": "嘴唇不潔心意不潔",
+    "category": "羨慕",
+    "subcategory": "脫離己"
+  },
+  {
+    "id": "316",
+    "title": "當我蒙恩能彀施恩",
+    "category": "羨慕",
+    "subcategory": "脫離己"
+  },
+  {
+    "id": "317",
+    "title": "從那求你將我遮蔽",
+    "category": "羨慕",
+    "subcategory": "脫離己"
   },
   {
     "id": "318",
-    "title": "羨慕－恩典",
-    "category": "羨慕"
+    "title": "我以信心仰望你在十字架上",
+    "category": "羨慕",
+    "subcategory": "恩典"
+  },
+  {
+    "id": "319",
+    "title": "每一點每一天",
+    "category": "羨慕",
+    "subcategory": "恩典"
   },
   {
     "id": "320",
-    "title": "羨慕－破碎",
-    "category": "羨慕"
+    "title": "哦神一棵沒有祝福",
+    "category": "羨慕",
+    "subcategory": "破碎"
   },
   {
     "id": "321",
-    "title": "羨慕－安息",
-    "category": "羨慕"
+    "title": "你這神的隱藏的愛",
+    "category": "羨慕",
+    "subcategory": "安息"
   },
   {
     "id": "322",
-    "title": "羨慕－自由",
-    "category": "羨慕"
+    "title": "求主把我捆綁",
+    "category": "羨慕",
+    "subcategory": "自由"
   },
   {
     "id": "323",
-    "title": "羨慕－亮光",
-    "category": "羨慕"
+    "title": "願光今天照亮",
+    "category": "羨慕",
+    "subcategory": "亮光"
+  },
+  {
+    "id": "324",
+    "title": "除去我的遮蔽",
+    "category": "羨慕",
+    "subcategory": "亮光"
   },
   {
     "id": "325",
-    "title": "羨慕－憐憫",
-    "category": "羨慕"
+    "title": "當我憑著自己思想",
+    "category": "羨慕",
+    "subcategory": "憐憫"
   },
   {
     "id": "326",
-    "title": "羨慕－一般",
-    "category": "羨慕"
+    "title": "求主光照光照我",
+    "category": "羨慕",
+    "subcategory": "一般"
+  },
+  {
+    "id": "327",
+    "title": "求主潔淨我的靈",
+    "category": "羨慕",
+    "subcategory": "一般"
+  },
+  {
+    "id": "328",
+    "title": "主你榮面是我所羨",
+    "category": "羨慕",
+    "subcategory": "一般"
+  },
+  {
+    "id": "329",
+    "title": "有人已離主別行他途",
+    "category": "羨慕",
+    "subcategory": "一般"
   },
   {
     "id": "330",
-    "title": "奉獻－主愛激勵",
-    "category": "奉獻"
+    "title": "主愛長闊高深",
+    "category": "奉獻",
+    "subcategory": "主愛激勵"
+  },
+  {
+    "id": "331",
+    "title": "為你我流寶血",
+    "category": "奉獻",
+    "subcategory": "主愛激勵"
+  },
+  {
+    "id": "332",
+    "title": "哦那不肯放我之愛",
+    "category": "奉獻",
+    "subcategory": "主愛激勵"
   },
   {
     "id": "333",
-    "title": "奉獻－主的榮美吸引",
-    "category": "奉獻"
+    "title": "你是千萬人中之第一人",
+    "category": "奉獻",
+    "subcategory": "主的榮美吸引"
   },
   {
     "id": "334",
-    "title": "奉獻－分別歸主",
-    "category": "奉獻"
+    "title": "絕對分別出來",
+    "category": "奉獻",
+    "subcategory": "分別歸主"
+  },
+  {
+    "id": "335",
+    "title": "遠遠丟背後",
+    "category": "奉獻",
+    "subcategory": "分別歸主"
+  },
+  {
+    "id": "336",
+    "title": "聖潔歡樂何等分別",
+    "category": "奉獻",
+    "subcategory": "分別歸主"
   },
   {
     "id": "337",
-    "title": "奉獻－全都獻主",
-    "category": "奉獻"
+    "title": "我將一切全獻基督",
+    "category": "奉獻",
+    "subcategory": "全都獻主"
+  },
+  {
+    "id": "338",
+    "title": "都歸基督都歸基督",
+    "category": "奉獻",
+    "subcategory": "全都獻主"
+  },
+  {
+    "id": "339",
+    "title": "為我荊棘冠冕你肯戴",
+    "category": "奉獻",
+    "subcategory": "全都獻主"
+  },
+  {
+    "id": "340",
+    "title": "完全的交出",
+    "category": "奉獻",
+    "subcategory": "全都獻主"
   },
   {
     "id": "341",
-    "title": "奉獻－屬於主",
-    "category": "奉獻"
+    "title": "我不屬自己",
+    "category": "奉獻",
+    "subcategory": "屬於主"
   },
   {
     "id": "342",
-    "title": "奉獻－為主而活",
-    "category": "奉獻"
+    "title": "耶穌我主我救主",
+    "category": "奉獻",
+    "subcategory": "為主而活"
   },
   {
     "id": "343",
-    "title": "奉獻－降服主",
-    "category": "奉獻"
+    "title": "不是掙扎乃是歸依",
+    "category": "奉獻",
+    "subcategory": "降服主"
+  },
+  {
+    "id": "344",
+    "title": "照你企圖主",
+    "category": "奉獻",
+    "subcategory": "降服主"
   },
   {
     "id": "345",
-    "title": "奉獻－跟隨主",
-    "category": "奉獻"
+    "title": "我當如何愛我的主",
+    "category": "奉獻",
+    "subcategory": "跟隨主"
+  },
+  {
+    "id": "346",
+    "title": "跟隨跟隨",
+    "category": "奉獻",
+    "subcategory": "跟隨主"
+  },
+  {
+    "id": "347",
+    "title": "主我今背十架",
+    "category": "奉獻",
+    "subcategory": "跟隨主"
+  },
+  {
+    "id": "348",
+    "title": "我今撇下一切事物",
+    "category": "奉獻",
+    "subcategory": "跟隨主"
   },
   {
     "id": "349",
-    "title": "奉獻－走主道路",
-    "category": "奉獻"
+    "title": "眾人湧進主的國度",
+    "category": "奉獻",
+    "subcategory": "走主道路"
   },
   {
     "id": "350",
-    "title": "奉獻－同主爭戰",
-    "category": "奉獻"
+    "title": "藉著你的救贖",
+    "category": "奉獻",
+    "subcategory": "同主爭戰"
+  },
+  {
+    "id": "351",
+    "title": "我是否要背負十架",
+    "category": "奉獻",
+    "subcategory": "同主爭戰"
   },
   {
     "id": "352",
-    "title": "奉獻－回歸轉主",
-    "category": "奉獻"
+    "title": "我們雖然時常搖動",
+    "category": "奉獻",
+    "subcategory": "回轉歸主"
+  },
+  {
+    "id": "353",
+    "title": "從前我亦曾熱心",
+    "category": "奉獻",
+    "subcategory": "回轉歸主"
+  },
+  {
+    "id": "354",
+    "title": "我豈可再冷淡退後",
+    "category": "奉獻",
+    "subcategory": "回轉歸主"
   },
   {
     "id": "355",
-    "title": "奉獻－得著萬有",
-    "category": "奉獻"
+    "title": "當人棄絕地的賄賂",
+    "category": "奉獻",
+    "subcategory": "得著萬有"
   },
   {
     "id": "356",
-    "title": "與基督的聯合－與祂合一",
-    "category": "與基督的聯合"
+    "title": "與你合一永遠之子",
+    "category": "與基督的聯合",
+    "subcategory": "與祂合一"
+  },
+  {
+    "id": "357",
+    "title": "聯於基督得勝的主",
+    "category": "與基督的聯合",
+    "subcategory": "與祂合一"
+  },
+  {
+    "id": "358",
+    "title": "與祂一樣",
+    "category": "與基督的聯合",
+    "subcategory": "與祂合一"
+  },
+  {
+    "id": "359",
+    "title": "與你合一恩主耶穌",
+    "category": "與基督的聯合",
+    "subcategory": "與祂合一"
   },
   {
     "id": "360",
-    "title": "與基督的聯合－聯於祂死與復活",
-    "category": "與基督的聯合"
+    "title": "哦各各他好各各他",
+    "category": "與基督的聯合",
+    "subcategory": "聯於祂死與復活"
+  },
+  {
+    "id": "361",
+    "title": "主你啟示一個奧祕",
+    "category": "與基督的聯合",
+    "subcategory": "聯於祂死與復活"
+  },
+  {
+    "id": "362",
+    "title": "我已與基督同釘死",
+    "category": "與基督的聯合",
+    "subcategory": "聯於祂死與復活"
+  },
+  {
+    "id": "363",
+    "title": "與基督同死祂死算我死",
+    "category": "與基督的聯合",
+    "subcategory": "聯於祂死與復活"
+  },
+  {
+    "id": "364",
+    "title": "與主同葬也一同復活",
+    "category": "與基督的聯合",
+    "subcategory": "聯於祂死與復活"
+  },
+  {
+    "id": "365",
+    "title": "與基督同死",
+    "category": "與基督的聯合",
+    "subcategory": "聯於祂死與復活"
+  },
+  {
+    "id": "366",
+    "title": "基督雖能千回降生於伯利恆",
+    "category": "與基督的聯合",
+    "subcategory": "聯於祂死與復活"
   },
   {
     "id": "367",
-    "title": "經歷基督－作那靈",
-    "category": "經歷基督"
+    "title": "主你所有一切工作",
+    "category": "經歷基督",
+    "subcategory": "作那靈"
+  },
+  {
+    "id": "368",
+    "title": "主當無人認識父時",
+    "category": "經歷基督",
+    "subcategory": "作那靈"
+  },
+  {
+    "id": "369",
+    "title": "當你住在肉身生命",
+    "category": "經歷基督",
+    "subcategory": "作那靈"
+  },
+  {
+    "id": "370",
+    "title": "哦主耶穌當你在地",
+    "category": "經歷基督",
+    "subcategory": "作那靈"
+  },
+  {
+    "id": "371",
+    "title": "哦主你今乃是那靈",
+    "category": "經歷基督",
+    "subcategory": "作那靈"
   },
   {
     "id": "372",
-    "title": "經歷基督－作神的中心與普及",
-    "category": "經歷基督"
+    "title": "基督是神的中心",
+    "category": "經歷基督",
+    "subcategory": "作神的中心與普及"
   },
   {
     "id": "373",
-    "title": "經歷基督－作神的見證",
-    "category": "經歷基督"
+    "title": "基督是神真實見證",
+    "category": "經歷基督",
+    "subcategory": "作神的見證"
   },
   {
     "id": "374",
-    "title": "經歷基督－作實際",
-    "category": "經歷基督"
+    "title": "基督是萬有惟一的實際",
+    "category": "經歷基督",
+    "subcategory": "作實際"
+  },
+  {
+    "id": "375",
+    "title": "主你已使你的自己",
+    "category": "經歷基督",
+    "subcategory": "作實際"
   },
   {
     "id": "376",
-    "title": "經歷基督－作恩典",
-    "category": "經歷基督"
+    "title": "神所賜恩典",
+    "category": "經歷基督",
+    "subcategory": "作恩典"
   },
   {
     "id": "377",
-    "title": "經歷基督－作生命",
-    "category": "經歷基督"
+    "title": "榮耀榮耀基督作生命",
+    "category": "經歷基督",
+    "subcategory": "作生命"
+  },
+  {
+    "id": "378",
+    "title": "何等生命何等平安",
+    "category": "經歷基督",
+    "subcategory": "作生命"
+  },
+  {
+    "id": "379",
+    "title": "何等大能何等大力",
+    "category": "經歷基督",
+    "subcategory": "作生命"
+  },
+  {
+    "id": "380",
+    "title": "榮耀榮耀榮耀生命",
+    "category": "經歷基督",
+    "subcategory": "作生命"
+  },
+  {
+    "id": "381",
+    "title": "主你是我生命",
+    "category": "經歷基督",
+    "subcategory": "作生命"
+  },
+  {
+    "id": "382",
+    "title": "榮耀基督親愛救主",
+    "category": "經歷基督",
+    "subcategory": "作生命"
+  },
+  {
+    "id": "383",
+    "title": "榮耀之中有一位",
+    "category": "經歷基督",
+    "subcategory": "作生命"
   },
   {
     "id": "384",
-    "title": "經歷基督－作食物",
-    "category": "經歷基督"
+    "title": "神在基督裏作人食糧",
+    "category": "經歷基督",
+    "subcategory": "作食物"
+  },
+  {
+    "id": "385",
+    "title": "主阿你是嗎哪",
+    "category": "經歷基督",
+    "subcategory": "作食物"
   },
   {
     "id": "386",
-    "title": "經歷基督－作一切",
-    "category": "經歷基督"
+    "title": "基督就是我的世界",
+    "category": "經歷基督",
+    "subcategory": "作一切"
+  },
+  {
+    "id": "387",
+    "title": "無論罪惡如何深劇",
+    "category": "經歷基督",
+    "subcategory": "作一切"
+  },
+  {
+    "id": "388",
+    "title": "我已得到宇宙至寶",
+    "category": "經歷基督",
+    "subcategory": "作一切"
+  },
+  {
+    "id": "389",
+    "title": "今世福樂沒滅",
+    "category": "經歷基督",
+    "subcategory": "作一切"
+  },
+  {
+    "id": "390",
+    "title": "耶穌為我耶穌為我",
+    "category": "經歷基督",
+    "subcategory": "作一切"
+  },
+  {
+    "id": "391",
+    "title": "你這恬靜隱密之源",
+    "category": "經歷基督",
+    "subcategory": "作一切"
+  },
+  {
+    "id": "392",
+    "title": "祂是一切最親",
+    "category": "經歷基督",
+    "subcategory": "作一切"
+  },
+  {
+    "id": "393",
+    "title": "祂是樂中之樂",
+    "category": "經歷基督",
+    "subcategory": "作一切"
+  },
+  {
+    "id": "394",
+    "title": "前要的是祝福",
+    "category": "經歷基督",
+    "subcategory": "作一切"
+  },
+  {
+    "id": "395",
+    "title": "惟有耶穌是我題目",
+    "category": "經歷基督",
+    "subcategory": "作一切"
+  },
+  {
+    "id": "396",
+    "title": "當我不見基督容華",
+    "category": "經歷基督",
+    "subcategory": "作一切"
   },
   {
     "id": "397",
-    "title": "經歷基督－在主觀方面",
-    "category": "經歷基督"
+    "title": "基督是我主觀經歷",
+    "category": "經歷基督",
+    "subcategory": "在主觀方面"
   },
   {
     "id": "398",
-    "title": "經歷基督－在客觀與主觀兩面",
-    "category": "經歷基督"
+    "title": "基督今日於我客觀也主觀",
+    "category": "經歷基督",
+    "subcategory": "在客觀與主觀兩面"
   },
   {
     "id": "399",
-    "title": "經歷基督－作內住者",
-    "category": "經歷基督"
+    "title": "神的心意所喜所愛",
+    "category": "經歷基督",
+    "subcategory": "作內住者"
   },
   {
     "id": "400",
-    "title": "經歷基督－作便利者",
-    "category": "經歷基督"
+    "title": "哦主你是生命之靈",
+    "category": "經歷基督",
+    "subcategory": "作便利者"
   },
   {
     "id": "401",
-    "title": "經歷基督－作釋放者",
-    "category": "經歷基督"
+    "title": "基督使我得勝有餘",
+    "category": "經歷基督",
+    "subcategory": "作釋放者"
   },
   {
     "id": "402",
-    "title": "經歷基督－與一切相對",
-    "category": "經歷基督"
+    "title": "不是字句律法",
+    "category": "經歷基督",
+    "subcategory": "與一切相對"
   },
   {
     "id": "403",
-    "title": "經歷基督－祂的豐富",
-    "category": "經歷基督"
+    "title": "哦我主的神聖豐富",
+    "category": "經歷基督",
+    "subcategory": "祂的豐富"
   },
   {
     "id": "404",
-    "title": "經歷基督－祂的帶領",
-    "category": "經歷基督"
+    "title": "祂帶領我祂帶領我",
+    "category": "經歷基督",
+    "subcategory": "祂的帶領"
   },
   {
     "id": "405",
-    "title": "經歷基督－愛祂",
-    "category": "經歷基督"
+    "title": "恩主我愛你我深知你屬我",
+    "category": "經歷基督",
+    "subcategory": "愛祂"
   },
   {
     "id": "406",
-    "title": "經歷基督－與祂交通",
-    "category": "經歷基督"
+    "title": "交通何甜美喜樂何豐盈",
+    "category": "經歷基督",
+    "subcategory": "與祂交通"
+  },
+  {
+    "id": "407",
+    "title": "救主耶穌我的太陽",
+    "category": "經歷基督",
+    "subcategory": "與祂交通"
+  },
+  {
+    "id": "408",
+    "title": "你名似膏香",
+    "category": "經歷基督",
+    "subcategory": "與祂交通"
+  },
+  {
+    "id": "409",
+    "title": "我有一位好朋友",
+    "category": "經歷基督",
+    "subcategory": "與祂交通"
+  },
+  {
+    "id": "410",
+    "title": "哦在榮耀裏的基督",
+    "category": "經歷基督",
+    "subcategory": "與祂交通"
+  },
+  {
+    "id": "411",
+    "title": "夕陽西沉大地靜",
+    "category": "經歷基督",
+    "subcategory": "與祂交通"
+  },
+  {
+    "id": "412",
+    "title": "摸你就得生命供應",
+    "category": "經歷基督",
+    "subcategory": "與祂交通"
+  },
+  {
+    "id": "413",
+    "title": "寶貝的救主",
+    "category": "經歷基督",
+    "subcategory": "與祂交通"
+  },
+  {
+    "id": "414",
+    "title": "進入幔內，就必出到營外",
+    "category": "經歷基督",
+    "subcategory": "與祂交通"
+  },
+  {
+    "id": "415",
+    "title": "在祂同在的祕密處",
+    "category": "經歷基督",
+    "subcategory": "與祂交通"
+  },
+  {
+    "id": "416",
+    "title": "我已相信真事實",
+    "category": "經歷基督",
+    "subcategory": "與祂交通"
+  },
+  {
+    "id": "417",
+    "title": "夜影尚存晨光未現",
+    "category": "經歷基督",
+    "subcategory": "與祂交通"
   },
   {
     "id": "418",
-    "title": "經歷基督－住在祂裡面",
-    "category": "經歷基督"
+    "title": "住在主裏面無上的福氣",
+    "category": "經歷基督",
+    "subcategory": "住在祂裡面"
+  },
+  {
+    "id": "419",
+    "title": "我主你說你是真樹",
+    "category": "經歷基督",
+    "subcategory": "住在祂裡面"
+  },
+  {
+    "id": "420",
+    "title": "住在你裏面這是我心願",
+    "category": "經歷基督",
+    "subcategory": "住在祂裡面"
   },
   {
     "id": "421",
-    "title": "經歷基督－信靠祂",
-    "category": "經歷基督"
+    "title": "無你我就無法想",
+    "category": "經歷基督",
+    "subcategory": "信靠祂"
+  },
+  {
+    "id": "422",
+    "title": "主我還有誰在天上",
+    "category": "經歷基督",
+    "subcategory": "信靠祂"
+  },
+  {
+    "id": "423",
+    "title": "意志薄弱能力軟弱",
+    "category": "經歷基督",
+    "subcategory": "信靠祂"
+  },
+  {
+    "id": "424",
+    "title": "我心安息在於主",
+    "category": "經歷基督",
+    "subcategory": "信靠祂"
   },
   {
     "id": "425",
-    "title": "經歷基督－盛著祂",
-    "category": "經歷基督"
+    "title": "我是受造的瓦器",
+    "category": "經歷基督",
+    "subcategory": "盛著祂"
   },
   {
     "id": "426",
-    "title": "經歷基督－順從祂",
-    "category": "經歷基督"
+    "title": "當我同主行動",
+    "category": "經歷基督",
+    "subcategory": "順從祂"
   },
   {
     "id": "427",
-    "title": "經歷基督－跟隨祂",
-    "category": "經歷基督"
+    "title": "無論何處要我跟隨",
+    "category": "經歷基督",
+    "subcategory": "跟隨祂"
+  },
+  {
+    "id": "428",
+    "title": "步步追步步隨",
+    "category": "經歷基督",
+    "subcategory": "跟隨祂"
+  },
+  {
+    "id": "429",
+    "title": "出到營外就耶穌",
+    "category": "經歷基督",
+    "subcategory": "跟隨祂"
   },
   {
     "id": "430",
-    "title": "經歷基督－模成祂的形像",
-    "category": "經歷基督"
+    "title": "模成模成神子形像",
+    "category": "經歷基督",
+    "subcategory": "模成祂的形像"
   },
   {
     "id": "431",
-    "title": "經歷基督－彰顯祂",
-    "category": "經歷基督"
+    "title": "看從那些卑賤瓦器",
+    "category": "經歷基督",
+    "subcategory": "彰顯祂"
+  },
+  {
+    "id": "432",
+    "title": "寶貝放在瓦器裏面",
+    "category": "經歷基督",
+    "subcategory": "彰顯祂"
+  },
+  {
+    "id": "433",
+    "title": "哦求主救我脫離自己",
+    "category": "經歷基督",
+    "subcategory": "彰顯祂"
+  },
+  {
+    "id": "434",
+    "title": "神在天上有一寶貝",
+    "category": "經歷基督",
+    "subcategory": "彰顯祂"
   },
   {
     "id": "435",
-    "title": "經歷基督－體貼靈",
-    "category": "經歷基督"
+    "title": "在亞當裏面",
+    "category": "經歷基督",
+    "subcategory": "體貼靈"
   },
   {
     "id": "436",
-    "title": "經歷基督－隨從靈",
-    "category": "經歷基督"
+    "title": "隨從那靈而行",
+    "category": "經歷基督",
+    "subcategory": "隨從靈"
   },
   {
     "id": "437",
-    "title": "經歷基督－因祂滿足",
-    "category": "經歷基督"
+    "title": "寧捨世界而要基督",
+    "category": "經歷基督",
+    "subcategory": "因祂滿足"
+  },
+  {
+    "id": "438",
+    "title": "耶穌耶穌我揀選主耶穌",
+    "category": "經歷基督",
+    "subcategory": "因祂滿足"
   },
   {
     "id": "439",
-    "title": "經歷基督－一般",
-    "category": "經歷基督"
+    "title": "都因著你",
+    "category": "經歷基督",
+    "subcategory": "一般"
+  },
+  {
+    "id": "440",
+    "title": "外面雖被曠野太陽曬黑",
+    "category": "經歷基督",
+    "subcategory": "一般"
   },
   {
     "id": "441",
-    "title": "經歷神－作永遠的分",
-    "category": "經歷神"
+    "title": "我神我愛我的永分",
+    "category": "經歷神",
+    "subcategory": "作永遠的分"
   },
   {
     "id": "442",
-    "title": "經歷神－作生命",
-    "category": "經歷神"
+    "title": "當我已為撒但所擄",
+    "category": "經歷神",
+    "subcategory": "作生命"
+  },
+  {
+    "id": "443",
+    "title": "何等榮耀何等神聖",
+    "category": "經歷神",
+    "subcategory": "作生命"
   },
   {
     "id": "444",
-    "title": "經歷神－作牧人",
-    "category": "經歷神"
+    "title": "是愛的神作我牧人",
+    "category": "經歷神",
+    "subcategory": "作牧人"
   },
   {
     "id": "445",
-    "title": "經歷神－作居所",
-    "category": "經歷神"
+    "title": "一想到神就受吸引",
+    "category": "經歷神",
+    "subcategory": "作居所"
+  },
+  {
+    "id": "446",
+    "title": "我的居所乃是神的自己",
+    "category": "經歷神",
+    "subcategory": "作居所"
   },
   {
     "id": "447",
-    "title": "經歷神－藉三身位",
-    "category": "經歷神"
+    "title": "何等奧妙父子靈乃是一神",
+    "category": "經歷神",
+    "subcategory": "藉三身位"
+  },
+  {
+    "id": "448",
+    "title": "哦神讚美你的奧妙",
+    "category": "經歷神",
+    "subcategory": "藉三身位"
   },
   {
     "id": "449",
-    "title": "經歷神－在靈裡",
-    "category": "經歷神"
+    "title": "靈是神的榮耀本質",
+    "category": "經歷神",
+    "subcategory": "在靈裡"
+  },
+  {
+    "id": "450",
+    "title": "靈生靈靈拜靈",
+    "category": "經歷神",
+    "subcategory": "在靈裡"
+  },
+  {
+    "id": "451",
+    "title": "神的心意要祂一切",
+    "category": "經歷神",
+    "subcategory": "在靈裡"
   },
   {
     "id": "452",
-    "title": "經歷神－靈作傳達",
-    "category": "經歷神"
+    "title": "神的聖靈是神傳達",
+    "category": "經歷神",
+    "subcategory": "靈作傳達"
   },
   {
     "id": "453",
-    "title": "經歷神－與祂交通",
-    "category": "經歷神"
+    "title": "與你更親我神",
+    "category": "經歷神",
+    "subcategory": "與祂交通"
   },
   {
     "id": "454",
-    "title": "十字架的誇耀－古老的十字架",
-    "category": "十字架的誇耀"
+    "title": "我寶貴古老的十字架",
+    "category": "十字架的誇耀",
+    "subcategory": "古老的十字架"
   },
   {
     "id": "455",
-    "title": "十字架的誇耀－獨存的十字架",
-    "category": "十字架的誇耀"
+    "title": "基督十架是我誇耀",
+    "category": "十字架的誇耀",
+    "subcategory": "獨存的十字架"
   },
   {
     "id": "456",
-    "title": "十字架的誇耀－近十字架",
-    "category": "十字架的誇耀"
+    "title": "求主使我近十架",
+    "category": "十字架的誇耀",
+    "subcategory": "近十字架"
   },
   {
     "id": "457",
-    "title": "十字架的誇耀－得勝的十字架",
-    "category": "十字架的誇耀"
+    "title": "十架永遠得勝",
+    "category": "十字架的誇耀",
+    "subcategory": "得勝的十字架"
   },
   {
     "id": "458",
-    "title": "十字架的道路－藉損受益",
-    "category": "十字架的道路"
+    "title": "你若不壓橄欖成渣",
+    "category": "十字架的道路",
+    "subcategory": "藉損受益"
+  },
+  {
+    "id": "459",
+    "title": "十架越重神越親近",
+    "category": "十字架的道路",
+    "subcategory": "藉損受益"
+  },
+  {
+    "id": "460",
+    "title": "若無損失就無得著",
+    "category": "十字架的道路",
+    "subcategory": "藉損受益"
   },
   {
     "id": "461",
-    "title": "十字架的道路－十字架的意義",
-    "category": "十字架的道路"
+    "title": "十架人若背起",
+    "category": "十字架的道路",
+    "subcategory": "十字架的意義"
   },
   {
     "id": "462",
-    "title": "十字架的道路－藉死而生",
-    "category": "十字架的道路"
+    "title": "十字架的道路要犧牲",
+    "category": "十字架的道路",
+    "subcategory": "藉死而生"
+  },
+  {
+    "id": "463",
+    "title": "十架樂接受",
+    "category": "十字架的道路",
+    "subcategory": "藉死而生"
+  },
+  {
+    "id": "464",
+    "title": "我若認識復活大能",
+    "category": "十字架的道路",
+    "subcategory": "藉死而生"
   },
   {
     "id": "465",
-    "title": "十字架的道路－結果之路",
-    "category": "十字架的道路"
+    "title": "我們現在默思葡萄一生的事",
+    "category": "十字架的道路",
+    "subcategory": "結果之路"
+  },
+  {
+    "id": "466",
+    "title": "若是死了哦這是主親口的信息",
+    "category": "十字架的道路",
+    "subcategory": "結果之路"
   },
   {
     "id": "467",
-    "title": "十字架的道路－跟隨主的路",
-    "category": "十字架的道路"
+    "title": "你怎沒有傷痕",
+    "category": "十字架的道路",
+    "subcategory": "跟隨主的路"
+  },
+  {
+    "id": "468",
+    "title": "我若稍微偏離正路",
+    "category": "十字架的道路",
+    "subcategory": "跟隨主的路"
+  },
+  {
+    "id": "469",
+    "title": "從伯利恆我們動身",
+    "category": "十字架的道路",
+    "subcategory": "跟隨主的路"
   },
   {
     "id": "470",
-    "title": "十字架的道路－得勝的路",
-    "category": "十字架的道路"
+    "title": "惟有常出代價",
+    "category": "十字架的道路",
+    "subcategory": "得勝的路"
   },
   {
     "id": "471",
-    "title": "十字架的道路－得安息的途徑",
-    "category": "十字架的道路"
+    "title": "破毀帶我到主懷",
+    "category": "十字架的道路",
+    "subcategory": "得安息的途徑"
   },
   {
     "id": "472",
-    "title": "復活的生命－基督自己",
-    "category": "復活的生命"
+    "title": "死亡不能拘禁復活生命",
+    "category": "復活的生命",
+    "subcategory": "基督自己"
   },
   {
     "id": "473",
-    "title": "復活的生命－由死而生",
-    "category": "復活的生命"
+    "title": "由死而生恩主",
+    "category": "復活的生命",
+    "subcategory": "由死而生"
   },
   {
     "id": "474",
-    "title": "鼓勵－仰望主",
-    "category": "鼓勵"
+    "title": "你這因著奔正路",
+    "category": "鼓勵",
+    "subcategory": "仰望主"
+  },
+  {
+    "id": "475",
+    "title": "轉眼將耶穌觀看",
+    "category": "鼓勵",
+    "subcategory": "仰望主"
   },
   {
     "id": "476",
-    "title": "鼓勵－與主交通",
-    "category": "鼓勵"
+    "title": "活在生命光中",
+    "category": "鼓勵",
+    "subcategory": "與主交通"
+  },
+  {
+    "id": "477",
+    "title": "用功朝見主面",
+    "category": "鼓勵",
+    "subcategory": "與主交通"
   },
   {
     "id": "478",
-    "title": "鼓勵－倚靠主",
-    "category": "鼓勵"
+    "title": "親愛基督精兵",
+    "category": "鼓勵",
+    "subcategory": "倚靠主"
   },
   {
     "id": "479",
-    "title": "鼓勵－思想主",
-    "category": "鼓勵"
+    "title": "要思想耶穌",
+    "category": "鼓勵",
+    "subcategory": "思想主"
   },
   {
     "id": "480",
-    "title": "鼓勵－順從主",
-    "category": "鼓勵"
+    "title": "你們能否順從",
+    "category": "鼓勵",
+    "subcategory": "順從主"
   },
   {
     "id": "481",
-    "title": "鼓勵－相信主",
-    "category": "鼓勵"
+    "title": "應當一無罣慮",
+    "category": "鼓勵",
+    "subcategory": "相信主"
+  },
+  {
+    "id": "482",
+    "title": "神的應許不能廢去",
+    "category": "鼓勵",
+    "subcategory": "相信主"
   },
   {
     "id": "483",
-    "title": "鼓勵－努力向前",
-    "category": "鼓勵"
+    "title": "前進是我口號",
+    "category": "鼓勵",
+    "subcategory": "努力向前"
+  },
+  {
+    "id": "484",
+    "title": "當向標竿力前",
+    "category": "鼓勵",
+    "subcategory": "努力向前"
+  },
+  {
+    "id": "485",
+    "title": "靠著恩主全能神",
+    "category": "鼓勵",
+    "subcategory": "努力向前"
   },
   {
     "id": "486",
-    "title": "鼓勵－儆醒",
-    "category": "鼓勵"
+    "title": "儆醒阿黑夜已深",
+    "category": "鼓勵",
+    "subcategory": "儆醒"
   },
   {
     "id": "487",
-    "title": "鼓勵－運用靈",
-    "category": "鼓勵"
+    "title": "靈要操練運用",
+    "category": "鼓勵",
+    "subcategory": "運用靈"
   },
   {
     "id": "488",
-    "title": "鼓勵－憑信而給",
-    "category": "鼓勵"
+    "title": "何必擔心一握不釋",
+    "category": "鼓勵",
+    "subcategory": "憑信而給"
   },
   {
     "id": "489",
-    "title": "鼓勵－更多追求",
-    "category": "鼓勵"
+    "title": "你曾覺得父愛心",
+    "category": "鼓勵",
+    "subcategory": "更多追求"
   },
   {
     "id": "490",
-    "title": "試煉中的安慰－主的同在",
-    "category": "試煉中的安慰"
+    "title": "我常居住天愛中",
+    "category": "試煉中的安慰",
+    "subcategory": "主的同在"
+  },
+  {
+    "id": "491",
+    "title": "我必與你同在",
+    "category": "試煉中的安慰",
+    "subcategory": "主的同在"
+  },
+  {
+    "id": "492",
+    "title": "在祂翼下在祂翼下",
+    "category": "試煉中的安慰",
+    "subcategory": "主的同在"
   },
   {
     "id": "493",
-    "title": "試煉中的安慰－主的看顧",
-    "category": "試煉中的安慰"
+    "title": "應當住在神的翅下",
+    "category": "試煉中的安慰",
+    "subcategory": "主的名"
+  },
+  {
+    "id": "494",
+    "title": "數主祝福",
+    "category": "試煉中的安慰",
+    "subcategory": "主的看顧"
+  },
+  {
+    "id": "495",
+    "title": "路途遙遠負擔沉著",
+    "category": "試煉中的安慰",
+    "subcategory": "主的看顧"
+  },
+  {
+    "id": "496",
+    "title": "主你正懷念我",
+    "category": "試煉中的安慰",
+    "subcategory": "主的看顧"
   },
   {
     "id": "497",
-    "title": "試煉中的安慰－主的名",
-    "category": "試煉中的安慰"
+    "title": "神阿你名何等廣大泱漭",
+    "category": "試煉中的安慰",
+    "subcategory": "主的名"
+  },
+  {
+    "id": "498",
+    "title": "寶貝名何甘甜",
+    "category": "試煉中的安慰",
+    "subcategory": "主的名"
   },
   {
     "id": "499",
-    "title": "試煉中的安慰－主的愛",
-    "category": "試煉中的安慰"
+    "title": "非我所是主阿",
+    "category": "試煉中的安慰",
+    "subcategory": "主的愛"
   },
   {
     "id": "500",
-    "title": "試煉中的安慰－主的手",
-    "category": "試煉中的安慰"
+    "title": "神操未知事件之鑰",
+    "category": "試煉中的安慰",
+    "subcategory": "主的手"
   },
   {
     "id": "501",
-    "title": "試煉中的安慰－主的膀臂",
-    "category": "試煉中的安慰"
+    "title": "安穩在基督手臂",
+    "category": "試煉中的安慰",
+    "subcategory": "主的膀臂"
   },
   {
     "id": "502",
-    "title": "試煉中的安慰－主的施恩座",
-    "category": "試煉中的安慰"
+    "title": "來罷憂傷的人",
+    "category": "試煉中的安慰",
+    "subcategory": "主的施恩座"
   },
   {
     "id": "503",
-    "title": "試煉中的安慰－主的話",
-    "category": "試煉中的安慰"
+    "title": "聽哪天上有聲喊說",
+    "category": "試煉中的安慰",
+    "subcategory": "主的話"
+  },
+  {
+    "id": "504",
+    "title": "你這奮鬥的信徒",
+    "category": "試煉中的安慰",
+    "subcategory": "主的話"
   },
   {
     "id": "505",
-    "title": "試煉中的安慰－主的信實",
-    "category": "試煉中的安慰"
+    "title": "主阿即或盡是黑暗",
+    "category": "試煉中的安慰",
+    "subcategory": "主的信實"
+  },
+  {
+    "id": "506",
+    "title": "祂不誤事因祂是神",
+    "category": "試煉中的安慰",
+    "subcategory": "主的信實"
   },
   {
     "id": "507",
-    "title": "試煉中的安慰－主的引領",
-    "category": "試煉中的安慰"
+    "title": "主你作我的領港",
+    "category": "試煉中的安慰",
+    "subcategory": "主的引領"
+  },
+  {
+    "id": "508",
+    "title": "一路我蒙救主引領",
+    "category": "試煉中的安慰",
+    "subcategory": "主的引導"
+  },
+  {
+    "id": "509",
+    "title": "你這奔向榮耀客旅",
+    "category": "試煉中的安慰",
+    "subcategory": "主的引領"
   },
   {
     "id": "510",
-    "title": "試煉中的安慰－主的扶持",
-    "category": "試煉中的安慰"
+    "title": "當我信心失效能",
+    "category": "試煉中的安慰",
+    "subcategory": "主的扶持"
   },
   {
     "id": "511",
-    "title": "試煉中的安慰－主知道",
-    "category": "試煉中的安慰"
+    "title": "主已知道你的挫折",
+    "category": "試煉中的安慰",
+    "subcategory": "主知道"
+  },
+  {
+    "id": "512",
+    "title": "我是一個異鄉旅客",
+    "category": "試煉中的安慰",
+    "subcategory": "主知道"
   },
   {
     "id": "513",
-    "title": "試煉中的安慰－主的預備",
-    "category": "試煉中的安慰"
+    "title": "或這樣或那樣",
+    "category": "試煉中的安慰",
+    "subcategory": "主的豫備"
   },
   {
     "id": "514",
-    "title": "試煉中的安慰－主恩夠用",
-    "category": "試煉中的安慰"
+    "title": "是的救主一直對我說",
+    "category": "試煉中的安慰",
+    "subcategory": "主恩彀用"
   },
   {
     "id": "515",
-    "title": "試煉中的安慰－信靠主",
-    "category": "試煉中的安慰"
+    "title": "不在此時，許待主回",
+    "category": "試煉中的安慰",
+    "subcategory": "信靠主"
+  },
+  {
+    "id": "516",
+    "title": "信靠耶穌何其甘甜",
+    "category": "試煉中的安慰",
+    "subcategory": "信靠主"
+  },
+  {
+    "id": "517",
+    "title": "前途如何我不知",
+    "category": "試煉中的安慰",
+    "subcategory": "信靠主"
+  },
+  {
+    "id": "518",
+    "title": "人若倚靠耶和華真有福",
+    "category": "試煉中的安慰",
+    "subcategory": "信靠主"
+  },
+  {
+    "id": "519",
+    "title": "主我相信",
+    "category": "試煉中的安慰",
+    "subcategory": "信靠主"
   },
   {
     "id": "520",
-    "title": "試煉中的安慰－盼望之主",
-    "category": "試煉中的安慰"
+    "title": "新鮮如同清晨甘露",
+    "category": "試煉中的安慰",
+    "subcategory": "盼望之主"
   },
   {
     "id": "521",
-    "title": "試煉中的安慰－在主裡的喜樂",
-    "category": "試煉中的安慰"
+    "title": "應當時常喜樂",
+    "category": "試煉中的安慰",
+    "subcategory": "在主裡的喜樂"
   },
   {
     "id": "522",
-    "title": "試煉中的安慰－苦難中的享受",
-    "category": "試煉中的安慰"
+    "title": "長久陷入憂患苦痛",
+    "category": "試煉中的安慰",
+    "subcategory": "苦難中的享受"
+  },
+  {
+    "id": "523",
+    "title": "祂賜的十架雖然沉重",
+    "category": "試煉中的安慰",
+    "subcategory": "苦難中的享受"
+  },
+  {
+    "id": "524",
+    "title": "我是一隻籠中小鳥",
+    "category": "試煉中的安慰",
+    "subcategory": "苦難中的享受"
+  },
+  {
+    "id": "525",
+    "title": "四圍牆垣堅而固",
+    "category": "試煉中的安慰",
+    "subcategory": "苦難中的享受"
+  },
+  {
+    "id": "526",
+    "title": "神卻曾應許",
+    "category": "試煉中的安慰",
+    "subcategory": "苦難中的享受"
   },
   {
     "id": "527",
-    "title": "試煉中的安慰－受苦得益",
-    "category": "試煉中的安慰"
+    "title": "神是我盼望",
+    "category": "試煉中的安慰",
+    "subcategory": "受苦得益"
+  },
+  {
+    "id": "528",
+    "title": "暗過必明亮",
+    "category": "試煉中的安慰",
+    "subcategory": "受苦得益"
   },
   {
     "id": "529",
-    "title": "裡面生命的各方面－兩棵樹",
-    "category": "裡面生命的各方面"
+    "title": "當日神在伊甸園中",
+    "category": "裡面生命的各方面",
+    "subcategory": "兩棵樹"
   },
   {
     "id": "530",
-    "title": "裡面生命的各方面－四個律",
-    "category": "裡面生命的各方面"
+    "title": "神的律法在人身外",
+    "category": "裡面生命的各方面",
+    "subcategory": "四個律"
   },
   {
     "id": "531",
-    "title": "裡面生命的各方面－字句的律法",
-    "category": "裡面生命的各方面"
+    "title": "字句律法是神見證",
+    "category": "裡面生命的各方面",
+    "subcategory": "字句的律法"
   },
   {
     "id": "532",
-    "title": "裡面生命的各方面－生命的律",
-    "category": "裡面生命的各方面"
+    "title": "舊約時代神的律法",
+    "category": "裡面生命的各方面",
+    "subcategory": "生命的律"
   },
   {
     "id": "533",
-    "title": "裡面生命的各方面－生命的交通",
-    "category": "裡面生命的各方面"
+    "title": "永遠生命帶來生命的交通",
+    "category": "裡面生命的各方面",
+    "subcategory": "生命的交通"
   },
   {
     "id": "534",
-    "title": "裡面生命的各方面－生命的感覺",
-    "category": "裡面生命的各方面"
+    "title": "任何生命具有意義",
+    "category": "裡面生命的各方面",
+    "subcategory": "生命的感覺"
   },
   {
     "id": "535",
-    "title": "裡面生命的各方面－裡面的認識",
-    "category": "裡面生命的各方面"
+    "title": "在神所重生聖徒的靈中",
+    "category": "裡面生命的各方面",
+    "subcategory": "裡面的認識"
   },
   {
     "id": "536",
-    "title": "裡面生命的各方面－神成肉身的原則",
-    "category": "裡面生命的各方面"
+    "title": "神成肉身神聖的原則",
+    "category": "裡面生命的各方面",
+    "subcategory": "神成肉身的原則"
   },
   {
     "id": "537",
-    "title": "裡面生命的各方面－三而一的人",
-    "category": "裡面生命的各方面"
+    "title": "受造之人是三部分",
+    "category": "裡面生命的各方面",
+    "subcategory": "三而一的人"
   },
   {
     "id": "538",
-    "title": "裡面生命的各方面－兒子的名分",
-    "category": "裡面生命的各方面"
+    "title": "創世之前神已豫定",
+    "category": "裡面生命的各方面",
+    "subcategory": "新心與新靈"
   },
   {
     "id": "539",
-    "title": "裡面生命的各方面－新心與新靈",
-    "category": "裡面生命的各方面"
+    "title": "神造我們作祂器皿",
+    "category": "裡面生命的各方面",
+    "subcategory": "新心與新靈"
   },
   {
     "id": "540",
-    "title": "裡面生命的各方面－正確的心",
-    "category": "裡面生命的各方面"
+    "title": "與主來往享主生命",
+    "category": "裡面生命的各方面",
+    "subcategory": "正確的心"
   },
   {
     "id": "541",
-    "title": "裡面生命的各方面－二靈成一靈",
-    "category": "裡面生命的各方面"
+    "title": "哦主你今乃是那靈",
+    "category": "裡面生命的各方面",
+    "subcategory": "二靈成一靈"
   },
   {
     "id": "542",
-    "title": "裡面生命的各方面－分辨靈",
-    "category": "裡面生命的各方面"
+    "title": "藉著十架將靈分辨",
+    "category": "裡面生命的各方面",
+    "subcategory": "分辨靈"
+  },
+  {
+    "id": "543",
+    "title": "聖殿深處是至聖所",
+    "category": "裡面生命的各方面",
+    "subcategory": "分辨靈"
+  },
+  {
+    "id": "544",
+    "title": "求主教我分辨靈與魂",
+    "category": "裡面生命的各方面",
+    "subcategory": "分辨靈"
   },
   {
     "id": "545",
-    "title": "裡面生命的各方面－破碎與釋放",
-    "category": "裡面生命的各方面"
+    "title": "三一之神榮耀的靈",
+    "category": "裡面生命的各方面",
+    "subcategory": "破碎與釋放"
   },
   {
     "id": "546",
-    "title": "裡面生命的各方面－變化",
-    "category": "裡面生命的各方面"
+    "title": "神的心意是要我們",
+    "category": "裡面生命的各方面",
+    "subcategory": "變化"
   },
   {
     "id": "547",
-    "title": "裡面生命的各方面－神的作法",
-    "category": "裡面生命的各方面"
+    "title": "不是掙扎努力",
+    "category": "裡面生命的各方面",
+    "subcategory": "神的作法"
   },
   {
     "id": "548",
-    "title": "神醫－基督的救贖",
-    "category": "神醫"
+    "title": "讚美救主完全救贖",
+    "category": "神醫",
+    "subcategory": "基督的救贖"
   },
   {
     "id": "549",
-    "title": "神醫－有如當初",
-    "category": "神醫"
+    "title": "祂醫治我讚美祂名",
+    "category": "神醫",
+    "subcategory": "有如當初"
   },
   {
     "id": "550",
-    "title": "神醫－只是一摸",
-    "category": "神醫"
+    "title": "當主正從那裏經過",
+    "category": "神醫",
+    "subcategory": "只是一摸"
   },
   {
     "id": "551",
-    "title": "禱告－意義",
-    "category": "禱告"
+    "title": "主是禱告的阿拉法",
+    "category": "禱告",
+    "subcategory": "意義"
+  },
+  {
+    "id": "552",
+    "title": "禱告乃是靈中所燒聖香",
+    "category": "禱告",
+    "subcategory": "意義"
+  },
+  {
+    "id": "553",
+    "title": "主阿我要安靜在你面前",
+    "category": "禱告",
+    "subcategory": "意義"
   },
   {
     "id": "554",
-    "title": "禱告－教導",
-    "category": "禱告"
+    "title": "求主教我如何禱告",
+    "category": "禱告",
+    "subcategory": "教導"
   },
   {
     "id": "555",
-    "title": "禱告－在至聖所裡",
-    "category": "禱告"
+    "title": "在此我們同禱告",
+    "category": "禱告",
+    "subcategory": "在至聖所裡"
+  },
+  {
+    "id": "556",
+    "title": "我要進入至聖所",
+    "category": "禱告",
+    "subcategory": "在至聖所裡"
+  },
+  {
+    "id": "557",
+    "title": "進入至聖所",
+    "category": "禱告",
+    "subcategory": "在至聖所裡"
+  },
+  {
+    "id": "558",
+    "title": "哦主幔子已經裂開",
+    "category": "禱告",
+    "subcategory": "在至聖所裡"
   },
   {
     "id": "559",
-    "title": "禱告－在主名裡",
-    "category": "禱告"
+    "title": "我奉耶穌全能的名",
+    "category": "禱告",
+    "subcategory": "在主名裡"
   },
   {
     "id": "560",
-    "title": "禱告－憑信心",
-    "category": "禱告"
+    "title": "要對這山說去",
+    "category": "禱告",
+    "subcategory": "憑信心"
+  },
+  {
+    "id": "561",
+    "title": "憑信心求",
+    "category": "禱告",
+    "subcategory": "憑信心"
+  },
+  {
+    "id": "562",
+    "title": "再唱信心的歌",
+    "category": "禱告",
+    "subcategory": "憑信心"
   },
   {
     "id": "563",
-    "title": "禱告－同心合意",
-    "category": "禱告"
+    "title": "要在靈裏同心禱告",
+    "category": "禱告",
+    "subcategory": "同心合意"
   },
   {
     "id": "564",
-    "title": "禱告－在靈裡",
-    "category": "禱告"
+    "title": "永遠要在靈裏禱告",
+    "category": "禱告",
+    "subcategory": "在靈裡"
   },
   {
     "id": "565",
-    "title": "禱告－摸神寶座",
-    "category": "禱告"
+    "title": "禱告摸神的寶座",
+    "category": "禱告",
+    "subcategory": "摸神寶座"
   },
   {
     "id": "566",
-    "title": "禱告－操練靈",
-    "category": "禱告"
+    "title": "我願多方禱告",
+    "category": "禱告",
+    "subcategory": "操練靈"
   },
   {
     "id": "567",
-    "title": "禱告－發表主",
-    "category": "禱告"
+    "title": "禱告要將主發表",
+    "category": "禱告",
+    "subcategory": "發表主"
   },
   {
     "id": "568",
-    "title": "禱告－與主交通",
-    "category": "禱告"
+    "title": "禱告與主來往交通",
+    "category": "禱告",
+    "subcategory": "與主交通"
   },
   {
     "id": "569",
-    "title": "禱告－與主同勞",
-    "category": "禱告"
+    "title": "禱告與主同勞苦",
+    "category": "禱告",
+    "subcategory": "與主同勞"
   },
   {
     "id": "570",
-    "title": "禱告－告訴主",
-    "category": "禱告"
+    "title": "我今如此為主爭戰",
+    "category": "禱告",
+    "subcategory": "告訴主"
+  },
+  {
+    "id": "571",
+    "title": "何等朋友我主耶穌",
+    "category": "禱告",
+    "subcategory": "告訴主"
+  },
+  {
+    "id": "572",
+    "title": "我所有苦況必須告訴主",
+    "category": "禱告",
+    "subcategory": "告訴主"
   },
   {
     "id": "573",
-    "title": "禱告－燒香",
-    "category": "禱告"
+    "title": "常在神前燒香",
+    "category": "禱告",
+    "subcategory": "燒香"
   },
   {
     "id": "574",
-    "title": "禱告－等候神",
-    "category": "禱告"
+    "title": "我今等候主",
+    "category": "禱告",
+    "subcategory": "等候神"
+  },
+  {
+    "id": "575",
+    "title": "我魂要肅靜",
+    "category": "禱告",
+    "subcategory": "等候神"
   },
   {
     "id": "576",
-    "title": "禱告－為復興",
-    "category": "禱告"
+    "title": "復興你工作主",
+    "category": "禱告",
+    "subcategory": "為復興"
+  },
+  {
+    "id": "577",
+    "title": "主給這個地方",
+    "category": "禱告",
+    "subcategory": "為復興"
   },
   {
     "id": "578",
-    "title": "禱告－甜美之時",
-    "category": "禱告"
+    "title": "禱告之時甘甜之時",
+    "category": "禱告",
+    "subcategory": "甜美之時"
   },
   {
     "id": "579",
-    "title": "讀經－神話語的功用",
-    "category": "讀經"
+    "title": "全部的聖經都是神呼出",
+    "category": "讀經",
+    "subcategory": "神話語的功用"
+  },
+  {
+    "id": "580",
+    "title": "主神已經說話",
+    "category": "讀經",
+    "subcategory": "神話語的功用"
+  },
+  {
+    "id": "581",
+    "title": "哦主神的活話",
+    "category": "讀經",
+    "subcategory": "神話語的功用"
+  },
+  {
+    "id": "582",
+    "title": "主你是話你也是靈",
+    "category": "讀經",
+    "subcategory": "神話語的功用"
   },
   {
     "id": "583",
-    "title": "讀經－尋求主的話",
-    "category": "讀經"
+    "title": "願主為我擘開",
+    "category": "讀經",
+    "subcategory": "尋求主的話"
+  },
+  {
+    "id": "584",
+    "title": "主你沒有一句為我",
+    "category": "讀經",
+    "subcategory": "尋求主的話"
+  },
+  {
+    "id": "585",
+    "title": "求主靜中發言",
+    "category": "讀經",
+    "subcategory": "尋求主的話"
   },
   {
     "id": "586",
-    "title": "讀經－從主話得餵養",
-    "category": "讀經"
+    "title": "餧我飲我主",
+    "category": "讀經",
+    "subcategory": "從主話得餧養"
+  },
+  {
+    "id": "587",
+    "title": "我今來到施恩座前",
+    "category": "讀經",
+    "subcategory": "從主話得餧養"
+  },
+  {
+    "id": "588",
+    "title": "主阿我來就你",
+    "category": "讀經",
+    "subcategory": "從主話得餧養"
+  },
+  {
+    "id": "589",
+    "title": "活著不是單靠食物",
+    "category": "讀經",
+    "subcategory": "從主話得餧養"
   },
   {
     "id": "590",
-    "title": "讀經－話與靈",
-    "category": "讀經"
+    "title": "基督是話，祂也是靈",
+    "category": "讀經",
+    "subcategory": "話與靈"
   },
   {
     "id": "591",
-    "title": "讀經－知識與生命",
-    "category": "讀經"
+    "title": "神的語語非僅知識",
+    "category": "讀經",
+    "subcategory": "知識與生命"
   },
   {
     "id": "592",
-    "title": "召會－基督的豐滿",
-    "category": "召會"
+    "title": "我們享受基督豐富",
+    "category": "召會",
+    "subcategory": "基督的豐滿"
   },
   {
     "id": "593",
-    "title": "召會－基督的奧秘",
-    "category": "召會"
+    "title": "神是人所不能見者",
+    "category": "召會",
+    "subcategory": "基督的奧祕"
   },
   {
     "id": "594",
-    "title": "召會－基督的擴增",
-    "category": "召會"
+    "title": "身體乃是人的豐滿",
+    "category": "召會",
+    "subcategory": "基督的擴增"
   },
   {
     "id": "595",
-    "title": "召會－基督的器皿",
-    "category": "召會"
+    "title": "召會乃是基督器皿",
+    "category": "召會",
+    "subcategory": "基督的器皿"
   },
   {
     "id": "596",
-    "title": "召會－基督的燈台",
-    "category": "召會"
+    "title": "召會乃是精金燈臺",
+    "category": "召會",
+    "subcategory": "基督的燈臺"
   },
   {
     "id": "597",
-    "title": "召會－定義",
-    "category": "召會"
+    "title": "神在永遠創世之前",
+    "category": "召會",
+    "subcategory": "定義"
+  },
+  {
+    "id": "598",
+    "title": "召會是主的身體",
+    "category": "召會",
+    "subcategory": "定義"
   },
   {
     "id": "599",
-    "title": "召會－歷程",
-    "category": "召會"
+    "title": "召會的種子",
+    "category": "召會",
+    "subcategory": "歷程"
   },
   {
     "id": "600",
-    "title": "召會－合一",
-    "category": "召會"
+    "title": "聖徒實際活在一起",
+    "category": "召會",
+    "subcategory": "合一"
+  },
+  {
+    "id": "601",
+    "title": "神子基督和祂救贖的工作",
+    "category": "召會",
+    "subcategory": "合一"
   },
   {
     "id": "602",
-    "title": "召會－根基",
-    "category": "召會"
+    "title": "主阿你是房角首石",
+    "category": "召會",
+    "subcategory": "根基"
   },
   {
     "id": "603",
-    "title": "召會－建造",
-    "category": "召會"
+    "title": "神，我讚美你的計畫",
+    "category": "召會",
+    "subcategory": "建造"
+  },
+  {
+    "id": "604",
+    "title": "主你不僅是陶人",
+    "category": "召會",
+    "subcategory": "建造"
+  },
+  {
+    "id": "605",
+    "title": "求主向我吹氣",
+    "category": "召會",
+    "subcategory": "建造"
+  },
+  {
+    "id": "606",
+    "title": "救我脫離自己天然",
+    "category": "召會",
+    "subcategory": "建造"
+  },
+  {
+    "id": "607",
+    "title": "主阿發言主阿吹氣",
+    "category": "召會",
+    "subcategory": "建造"
+  },
+  {
+    "id": "608",
+    "title": "哦主生命之氣向我吹",
+    "category": "召會",
+    "subcategory": "建造"
+  },
+  {
+    "id": "609",
+    "title": "主我寶貴你的藍圖",
+    "category": "召會",
+    "subcategory": "建造"
+  },
+  {
+    "id": "610",
+    "title": "釋放我靈",
+    "category": "召會",
+    "subcategory": "建造"
+  },
+  {
+    "id": "611",
+    "title": "我今渴慕靈裏的交通",
+    "category": "召會",
+    "subcategory": "建造"
+  },
+  {
+    "id": "612",
+    "title": "祭司職分何等尊榮",
+    "category": "召會",
+    "subcategory": "建造"
+  },
+  {
+    "id": "613",
+    "title": "建造召會的活石",
+    "category": "召會",
+    "subcategory": "建造"
+  },
+  {
+    "id": "614",
+    "title": "靈能交流恩主",
+    "category": "召會",
+    "subcategory": "建造"
   },
   {
     "id": "615",
-    "title": "召會－吸引",
-    "category": "召會"
+    "title": "主你居所何等可愛",
+    "category": "召會",
+    "subcategory": "吸引"
+  },
+  {
+    "id": "616",
+    "title": "主阿我愛你的居所",
+    "category": "召會",
+    "subcategory": "吸引"
   },
   {
     "id": "617",
-    "title": "召會－配搭",
-    "category": "召會"
+    "title": "生命活物出於基督",
+    "category": "召會",
+    "subcategory": "配搭"
+  },
+  {
+    "id": "618",
+    "title": "聖徒在基督裏",
+    "category": "召會",
+    "subcategory": "配搭"
+  },
+  {
+    "id": "619",
+    "title": "隨著活物的行蹤",
+    "category": "召會",
+    "subcategory": "配搭"
+  },
+  {
+    "id": "620",
+    "title": "聖靈的大雲",
+    "category": "召會",
+    "subcategory": "配搭"
   },
   {
     "id": "621",
-    "title": "召會－交通",
-    "category": "召會"
+    "title": "福哉以愛聯繫",
+    "category": "召會",
+    "subcategory": "交通"
+  },
+  {
+    "id": "622",
+    "title": "弟兄和睦同居何等美善",
+    "category": "召會",
+    "subcategory": "交通"
+  },
+  {
+    "id": "623",
+    "title": "我們呼吸天上空氣",
+    "category": "召會",
+    "subcategory": "交通"
   },
   {
     "id": "624",
-    "title": "聚會－展覽基督",
-    "category": "聚會"
+    "title": "前來展覽基督",
+    "category": "聚會",
+    "subcategory": "展覽基督"
   },
   {
     "id": "625",
-    "title": "聚會－在主同在中",
-    "category": "聚會"
+    "title": "主阿我們聚集你前",
+    "category": "聚會",
+    "subcategory": "在主同在中"
   },
   {
     "id": "626",
-    "title": "聚會－敬拜神",
-    "category": "聚會"
+    "title": "哦神憑靈並憑實際",
+    "category": "聚會",
+    "subcategory": "敬拜神"
   },
   {
     "id": "627",
-    "title": "聚會－基督作中心",
-    "category": "聚會"
+    "title": "在日常生活或在聚會中",
+    "category": "聚會",
+    "subcategory": "基督作中心"
   },
   {
     "id": "628",
-    "title": "聚會－運用靈",
-    "category": "聚會"
+    "title": "靈要操練運用",
+    "category": "聚會",
+    "subcategory": "運用靈"
   },
   {
     "id": "629",
-    "title": "聚會－盡功用",
-    "category": "聚會"
+    "title": "既是基督的肢體",
+    "category": "聚會",
+    "subcategory": "盡功用"
   },
   {
     "id": "630",
-    "title": "聚會－散會",
-    "category": "聚會"
+    "title": "為著你同在並你活的話",
+    "category": "聚會",
+    "subcategory": "散會"
+  },
+  {
+    "id": "631",
+    "title": "恩主，在我們尚未散會前",
+    "category": "聚會",
+    "subcategory": "散會"
   },
   {
     "id": "632",
-    "title": "屬靈的爭戰－興起",
-    "category": "屬靈的爭戰"
+    "title": "興起興起為基督",
+    "category": "屬靈的爭戰",
+    "subcategory": "興起"
   },
   {
     "id": "633",
-    "title": "屬靈的爭戰－前進",
-    "category": "屬靈的爭戰"
+    "title": "前進基督精兵",
+    "category": "屬靈的爭戰",
+    "subcategory": "前進"
   },
   {
     "id": "634",
-    "title": "屬靈的爭戰－衝過",
-    "category": "屬靈的爭戰"
+    "title": "衝過戰士哪衝過",
+    "category": "屬靈的爭戰",
+    "subcategory": "衝過"
   },
   {
     "id": "635",
-    "title": "屬靈的爭戰－站穩",
-    "category": "屬靈的爭戰"
+    "title": "戰士哪你就當站住",
+    "category": "屬靈的爭戰",
+    "subcategory": "站穩"
+  },
+  {
+    "id": "636",
+    "title": "邪惡之日要站住",
+    "category": "屬靈的爭戰",
+    "subcategory": "站穩"
   },
   {
     "id": "637",
-    "title": "屬靈的爭戰－在身體裡",
-    "category": "屬靈的爭戰"
+    "title": "爭戰要在身體裏面",
+    "category": "屬靈的爭戰",
+    "subcategory": "在身體裡"
   },
   {
     "id": "638",
-    "title": "屬靈的爭戰－以神為堡壘",
-    "category": "屬靈的爭戰"
+    "title": "我神是我大能堡壘",
+    "category": "屬靈的爭戰",
+    "subcategory": "以神為堡壘"
   },
   {
     "id": "639",
-    "title": "屬靈的爭戰－讚美",
-    "category": "屬靈的爭戰"
+    "title": "如果爭戰兇猛",
+    "category": "屬靈的爭戰",
+    "subcategory": "讚美"
   },
   {
     "id": "640",
-    "title": "屬靈的爭戰－順服",
-    "category": "屬靈的爭戰"
+    "title": "我對撒但總是說不",
+    "category": "屬靈的爭戰",
+    "subcategory": "順服"
   },
   {
     "id": "641",
-    "title": "屬靈的爭戰－因主的再來",
-    "category": "屬靈的爭戰"
+    "title": "今日戰爭兇猛",
+    "category": "屬靈的爭戰",
+    "subcategory": "因主的再來"
   },
   {
     "id": "642",
-    "title": "屬靈的爭戰－穿上神的軍裝",
-    "category": "屬靈的爭戰"
+    "title": "當奉耶穌這名站住",
+    "category": "屬靈的爭戰",
+    "subcategory": "穿上神的軍裝"
   },
   {
     "id": "643",
-    "title": "屬靈的爭戰－藉主的得勝",
-    "category": "屬靈的爭戰"
+    "title": "得勝得勝阿利路亞",
+    "category": "屬靈的爭戰",
+    "subcategory": "藉主的得勝"
+  },
+  {
+    "id": "644",
+    "title": "阿利路亞耶穌得勝",
+    "category": "屬靈的爭戰",
+    "subcategory": "藉主的得勝"
   },
   {
     "id": "645",
-    "title": "屬靈的爭戰－藉主的權柄",
-    "category": "屬靈的爭戰"
+    "title": "天上地下所有權柄",
+    "category": "屬靈的爭戰",
+    "subcategory": "藉主的權柄"
   },
   {
     "id": "646",
-    "title": "屬靈的爭戰－藉血",
-    "category": "屬靈的爭戰"
+    "title": "要藉基督得勝寶血",
+    "category": "屬靈的爭戰",
+    "subcategory": "藉血"
   },
   {
     "id": "647",
-    "title": "屬靈的爭戰－得勝者",
-    "category": "屬靈的爭戰"
+    "title": "你願否作主得勝者",
+    "category": "屬靈的爭戰",
+    "subcategory": "得勝者"
+  },
+  {
+    "id": "648",
+    "title": "得勝得勝者",
+    "category": "屬靈的爭戰",
+    "subcategory": "得勝者"
   },
   {
     "id": "649",
-    "title": "屬靈的爭戰－一般",
-    "category": "屬靈的爭戰"
+    "title": "撒但早已定規抵敵",
+    "category": "屬靈的爭戰",
+    "subcategory": "一般"
   },
   {
     "id": "650",
-    "title": "事奉－隨主引領",
-    "category": "事奉"
+    "title": "不是我們隨意走",
+    "category": "事奉",
+    "subcategory": "隨主引領"
   },
   {
     "id": "651",
-    "title": "事奉－要順服",
-    "category": "事奉"
+    "title": "愛主要我何去",
+    "category": "事奉",
+    "subcategory": "要順服"
   },
   {
     "id": "652",
-    "title": "事奉－盡本分",
-    "category": "事奉"
+    "title": "你的一隅你當照亮",
+    "category": "事奉",
+    "subcategory": "盡本分"
   },
   {
     "id": "653",
-    "title": "事奉－在流中",
-    "category": "事奉"
+    "title": "在流中在流中",
+    "category": "事奉",
+    "subcategory": "在流中"
   },
   {
     "id": "654",
-    "title": "事奉－在於靈",
-    "category": "事奉"
+    "title": "新約之下所有事奉",
+    "category": "事奉",
+    "subcategory": "在於靈"
   },
   {
     "id": "655",
-    "title": "事奉－生命的流露",
-    "category": "事奉"
+    "title": "生命流露纔是工作",
+    "category": "事奉",
+    "subcategory": "生命的流露"
   },
   {
     "id": "656",
-    "title": "事奉－在身體裡",
-    "category": "事奉"
+    "title": "要在身體事奉工作",
+    "category": "事奉",
+    "subcategory": "在身體裡"
   },
   {
     "id": "657",
-    "title": "事奉－享受基督作一切",
-    "category": "事奉"
+    "title": "祭司生活何等有福",
+    "category": "事奉",
+    "subcategory": "享受基督作一切"
   },
   {
     "id": "658",
-    "title": "事奉－為召會",
-    "category": "事奉"
+    "title": "我們事奉須為召會",
+    "category": "事奉",
+    "subcategory": "為召會"
   },
   {
     "id": "659",
-    "title": "事奉－供應基督",
-    "category": "事奉"
+    "title": "事奉乃是供應基督",
+    "category": "事奉",
+    "subcategory": "供應基督"
   },
   {
     "id": "660",
-    "title": "事奉－慇勤",
-    "category": "事奉"
+    "title": "現今時候已不多",
+    "category": "事奉",
+    "subcategory": "殷勤"
+  },
+  {
+    "id": "661",
+    "title": "趕緊工作夜快臨",
+    "category": "事奉",
+    "subcategory": "殷勤"
   },
   {
     "id": "662",
-    "title": "傳揚福音－湧流生命",
-    "category": "傳揚福音"
+    "title": "榮耀福音向外推廣",
+    "category": "傳揚福音",
+    "subcategory": "湧流生命"
   },
   {
     "id": "663",
-    "title": "傳揚福音－去傳",
-    "category": "傳揚福音"
+    "title": "傳揚好信息",
+    "category": "傳揚福音",
+    "subcategory": "去傳"
   },
   {
     "id": "664",
-    "title": "傳揚福音－搶救靈魂",
-    "category": "傳揚福音"
+    "title": "速興起傳福音",
+    "category": "傳揚福音",
+    "subcategory": "搶救靈魂"
   },
   {
     "id": "665",
-    "title": "傳揚福音－供應基督",
-    "category": "傳揚福音"
+    "title": "去向亡世供應基督",
+    "category": "傳揚福音",
+    "subcategory": "供應基督"
   },
   {
     "id": "666",
-    "title": "傳揚福音－採集材料",
-    "category": "傳揚福音"
+    "title": "去採集材料",
+    "category": "傳揚福音",
+    "subcategory": "採集材料"
   },
   {
     "id": "667",
-    "title": "傳揚福音－播種",
-    "category": "傳揚福音"
+    "title": "早晨我們播種",
+    "category": "傳揚福音",
+    "subcategory": "播種"
   },
   {
     "id": "668",
-    "title": "傳揚福音－豈可空手",
-    "category": "傳揚福音"
+    "title": "我豈可去雙手空空",
+    "category": "傳揚福音",
+    "subcategory": "豈可空手"
   },
   {
     "id": "669",
-    "title": "傳揚福音－為人代禱",
-    "category": "傳揚福音"
+    "title": "為你我今祈求",
+    "category": "傳揚福音",
+    "subcategory": "為人代禱"
   },
   {
     "id": "670",
-    "title": "福音－神",
-    "category": "福音"
+    "title": "你當豫備迎見神",
+    "category": "福音",
+    "subcategory": "神"
   },
   {
     "id": "671",
-    "title": "福音－救主",
-    "category": "福音"
+    "title": "基督已經完成贖罪",
+    "category": "福音",
+    "subcategory": "救主"
+  },
+  {
+    "id": "672",
+    "title": "降生為愛我",
+    "category": "福音",
+    "subcategory": "救主"
+  },
+  {
+    "id": "673",
+    "title": "耶穌我救主降生馬槽中",
+    "category": "福音",
+    "subcategory": "救主"
+  },
+  {
+    "id": "674",
+    "title": "祂為你受死木上",
+    "category": "福音",
+    "subcategory": "救主"
+  },
+  {
+    "id": "675",
+    "title": "這個榮耀信息何甜",
+    "category": "福音",
+    "subcategory": "救主"
+  },
+  {
+    "id": "676",
+    "title": "大喜信我已聽見",
+    "category": "福音",
+    "subcategory": "救主"
+  },
+  {
+    "id": "677",
+    "title": "憐憫慈愛寬恕",
+    "category": "福音",
+    "subcategory": "救主"
+  },
+  {
+    "id": "678",
+    "title": "除了耶穌以外",
+    "category": "福音",
+    "subcategory": "救主"
   },
   {
     "id": "679",
-    "title": "福音－救贖",
-    "category": "福音"
+    "title": "耶穌為我曾流淚",
+    "category": "福音",
+    "subcategory": "救贖"
+  },
+  {
+    "id": "680",
+    "title": "哦愛奇妙之愛",
+    "category": "福音",
+    "subcategory": "救贖"
+  },
+  {
+    "id": "681",
+    "title": "阿呀救主身懸木架",
+    "category": "福音",
+    "subcategory": "救贖"
+  },
+  {
+    "id": "682",
+    "title": "我聽救主聲音",
+    "category": "福音",
+    "subcategory": "救贖"
+  },
+  {
+    "id": "683",
+    "title": "耶穌愛我從天降臨",
+    "category": "福音",
+    "subcategory": "救贖"
   },
   {
     "id": "684",
-    "title": "福音－寶血",
-    "category": "福音"
+    "title": "哦這血泉何妙",
+    "category": "福音",
+    "subcategory": "寶血"
+  },
+  {
+    "id": "685",
+    "title": "耶穌我救主作神羔羊",
+    "category": "福音",
+    "subcategory": "寶血"
+  },
+  {
+    "id": "686",
+    "title": "今有一泉血流盈滿",
+    "category": "福音",
+    "subcategory": "寶血"
+  },
+  {
+    "id": "687",
+    "title": "你願脫離良心的重擔麼",
+    "category": "福音",
+    "subcategory": "寶血"
+  },
+  {
+    "id": "688",
+    "title": "曾否就主求祂洗淨你罪愆",
+    "category": "福音",
+    "subcategory": "寶血"
   },
   {
     "id": "689",
-    "title": "福音－愛與恩",
-    "category": "福音"
+    "title": "奇妙的愛",
+    "category": "福音",
+    "subcategory": "愛與恩"
+  },
+  {
+    "id": "690",
+    "title": "愛何奇妙",
+    "category": "福音",
+    "subcategory": "愛與恩"
+  },
+  {
+    "id": "691",
+    "title": "得救本乎恩",
+    "category": "福音",
+    "subcategory": "愛與恩"
   },
   {
     "id": "692",
-    "title": "福音－重生",
-    "category": "福音"
+    "title": "前有一官因見耶穌的神能",
+    "category": "福音",
+    "subcategory": "重生"
   },
   {
     "id": "693",
-    "title": "福音－生命",
-    "category": "福音"
+    "title": "榮耀榮耀阿利路亞",
+    "category": "福音",
+    "subcategory": "生命"
+  },
+  {
+    "id": "694",
+    "title": "主是生命主是復活",
+    "category": "福音",
+    "subcategory": "生命"
+  },
+  {
+    "id": "695",
+    "title": "救主為我死",
+    "category": "福音",
+    "subcategory": "生命"
   },
   {
     "id": "696",
-    "title": "福音－奧秘",
-    "category": "福音"
+    "title": "聽阿有一隱藏奧祕",
+    "category": "福音",
+    "subcategory": "奧祕"
+  },
+  {
+    "id": "697",
+    "title": "大喜信息驚天動地",
+    "category": "福音",
+    "subcategory": "奧祕"
   },
   {
     "id": "698",
-    "title": "福音－活水",
-    "category": "福音"
+    "title": "我主耶穌是生命源",
+    "category": "福音",
+    "subcategory": "活水"
   },
   {
     "id": "699",
-    "title": "福音－罪",
-    "category": "福音"
+    "title": "你的罪雖像硃紅",
+    "category": "福音",
+    "subcategory": "罪"
   },
   {
     "id": "700",
-    "title": "福音－虛空與痛苦",
-    "category": "福音"
+    "title": "若盡得世界",
+    "category": "福音",
+    "subcategory": "虛空與痛苦"
+  },
+  {
+    "id": "701",
+    "title": "空空空",
+    "category": "福音",
+    "subcategory": "虛空與痛苦"
+  },
+  {
+    "id": "702",
+    "title": "多患難常愁煩",
+    "category": "福音",
+    "subcategory": "虛空與痛苦"
   },
   {
     "id": "703",
-    "title": "福音－永遠",
-    "category": "福音"
+    "title": "永遠永遠永永遠遠",
+    "category": "福音",
+    "subcategory": "永遠"
   },
   {
     "id": "704",
-    "title": "福音－自由",
-    "category": "福音"
+    "title": "誰能免我死亡兇路",
+    "category": "福音",
+    "subcategory": "自由"
+  },
+  {
+    "id": "705",
+    "title": "所有罪人都是罪囚",
+    "category": "福音",
+    "subcategory": "自由"
   },
   {
     "id": "706",
-    "title": "福音－主的呼召",
-    "category": "福音"
+    "title": "來家來家",
+    "category": "福音",
+    "subcategory": "主的呼召"
+  },
+  {
+    "id": "707",
+    "title": "我聽我的救主吩咐",
+    "category": "福音",
+    "subcategory": "主的呼召"
+  },
+  {
+    "id": "708",
+    "title": "耶穌發慈聲要召你回來",
+    "category": "福音",
+    "subcategory": "主的呼召"
+  },
+  {
+    "id": "709",
+    "title": "無論甚麼人",
+    "category": "福音",
+    "subcategory": "主的呼召"
   },
   {
     "id": "710",
-    "title": "福音－主的叩門",
-    "category": "福音"
+    "title": "叩門叩門誰在外",
+    "category": "福音",
+    "subcategory": "主的叩門"
+  },
+  {
+    "id": "711",
+    "title": "聽阿救主叩門",
+    "category": "福音",
+    "subcategory": "主的叩門"
   },
   {
     "id": "712",
-    "title": "福音－勸導",
-    "category": "福音"
+    "title": "一百隻羊少了一口",
+    "category": "福音",
+    "subcategory": "勸導"
+  },
+  {
+    "id": "713",
+    "title": "莫非就是你",
+    "category": "福音",
+    "subcategory": "勸導"
+  },
+  {
+    "id": "714",
+    "title": "此時當就耶穌",
+    "category": "福音",
+    "subcategory": "勸導"
+  },
+  {
+    "id": "715",
+    "title": "你墮落罪惡境",
+    "category": "福音",
+    "subcategory": "勸導"
+  },
+  {
+    "id": "716",
+    "title": "歡迎你來你來",
+    "category": "福音",
+    "subcategory": "勸導"
+  },
+  {
+    "id": "717",
+    "title": "被罪壓害人人請來",
+    "category": "福音",
+    "subcategory": "勸導"
+  },
+  {
+    "id": "718",
+    "title": "哦不要棄絕主恩道",
+    "category": "福音",
+    "subcategory": "勸導"
+  },
+  {
+    "id": "719",
+    "title": "現在將疑惑拋棄",
+    "category": "福音",
+    "subcategory": "勸導"
+  },
+  {
+    "id": "720",
+    "title": "看哪救主舉木上",
+    "category": "福音",
+    "subcategory": "勸導"
+  },
+  {
+    "id": "721",
+    "title": "貧窮軟弱悲傷憂愁",
+    "category": "福音",
+    "subcategory": "勸導"
+  },
+  {
+    "id": "722",
+    "title": "飄渺人生何短暫",
+    "category": "福音",
+    "subcategory": "勸導"
   },
   {
     "id": "723",
-    "title": "福音－需要耶穌",
-    "category": "福音"
+    "title": "需要耶穌",
+    "category": "福音",
+    "subcategory": "需要耶穌"
   },
   {
     "id": "724",
-    "title": "福音－就主",
-    "category": "福音"
+    "title": "照我本相",
+    "category": "福音",
+    "subcategory": "就主"
+  },
+  {
+    "id": "725",
+    "title": "脫離捆綁憂愁與黑影",
+    "category": "福音",
+    "subcategory": "就主"
+  },
+  {
+    "id": "726",
+    "title": "你的歡迎聲音",
+    "category": "福音",
+    "subcategory": "就主"
+  },
+  {
+    "id": "727",
+    "title": "我今來就主十架",
+    "category": "福音",
+    "subcategory": "就主"
   },
   {
     "id": "728",
-    "title": "福音－回家",
-    "category": "福音"
+    "title": "誰在流蕩遠離天父",
+    "category": "福音",
+    "subcategory": "回家"
   },
   {
     "id": "729",
-    "title": "福音－呼求",
-    "category": "福音"
+    "title": "耶穌，我人的愛人",
+    "category": "福音",
+    "subcategory": "呼求"
+  },
+  {
+    "id": "730",
+    "title": "聽阿罪人慈聲何高",
+    "category": "福音",
+    "subcategory": "呼求"
+  },
+  {
+    "id": "731",
+    "title": "永久磐石為我開",
+    "category": "福音",
+    "subcategory": "呼求"
+  },
+  {
+    "id": "732",
+    "title": "你曾離天庭",
+    "category": "福音",
+    "subcategory": "呼求"
+  },
+  {
+    "id": "733",
+    "title": "進入我心",
+    "category": "福音",
+    "subcategory": "呼求"
   },
   {
     "id": "734",
-    "title": "福音－相信接受",
-    "category": "福音"
+    "title": "罪惡全洗淨",
+    "category": "福音",
+    "subcategory": "相信接受"
   },
   {
     "id": "735",
-    "title": "福音－見證",
-    "category": "福音"
+    "title": "愛救了我愛救了我",
+    "category": "福音",
+    "subcategory": "見證"
+  },
+  {
+    "id": "736",
+    "title": "罪惡途中多年流蕩",
+    "category": "福音",
+    "subcategory": "見證"
+  },
+  {
+    "id": "737",
+    "title": "愛何大尋回我",
+    "category": "福音",
+    "subcategory": "見證"
+  },
+  {
+    "id": "738",
+    "title": "救我恩何等豐滿",
+    "category": "福音",
+    "subcategory": "見證"
+  },
+  {
+    "id": "739",
+    "title": "榮耀歸主名",
+    "category": "福音",
+    "subcategory": "見證"
   },
   {
     "id": "740",
-    "title": "受浸－圍繞主墓",
-    "category": "受浸"
+    "title": "主耶穌我們聚集在你墓的四圍",
+    "category": "受浸",
+    "subcategory": "圍繞主墓"
   },
   {
     "id": "741",
-    "title": "受浸－埋葬與復活",
-    "category": "受浸"
+    "title": "基督死葬我隨同",
+    "category": "受浸",
+    "subcategory": "埋葬與復活"
+  },
+  {
+    "id": "742",
+    "title": "主當我們藉著這水",
+    "category": "受浸",
+    "subcategory": "埋葬與復活"
   },
   {
     "id": "743",
-    "title": "受浸－完全了了",
-    "category": "受浸"
+    "title": "已經死了已經葬了",
+    "category": "受浸",
+    "subcategory": "完全了了"
   },
   {
     "id": "744",
-    "title": "受浸－藉水得救",
-    "category": "受浸"
+    "title": "藉水得救此言奧妙",
+    "category": "受浸",
+    "subcategory": "藉水得救"
   },
   {
     "id": "745",
-    "title": "國度－意義",
-    "category": "國度"
+    "title": "國度是神的掌權",
+    "category": "國度",
+    "subcategory": "意義"
   },
   {
     "id": "746",
-    "title": "國度－裡面的統治",
-    "category": "國度"
+    "title": "神的國度今在地上",
+    "category": "國度",
+    "subcategory": "裏面的統治"
   },
   {
     "id": "747",
-    "title": "國度－要求",
-    "category": "國度"
+    "title": "國度要求標準嚴格",
+    "category": "國度",
+    "subcategory": "要求"
   },
   {
     "id": "748",
-    "title": "國度－實際",
-    "category": "國度"
+    "title": "諸天國度祂的實際",
+    "category": "國度",
+    "subcategory": "實際"
   },
   {
     "id": "749",
-    "title": "國度－實現",
-    "category": "國度"
+    "title": "看何榮耀看何光彩",
+    "category": "國度",
+    "subcategory": "實現"
   },
   {
     "id": "750",
-    "title": "國度－外表",
-    "category": "國度"
+    "title": "神子來作生命種子",
+    "category": "國度",
+    "subcategory": "外表"
   },
   {
     "id": "751",
-    "title": "國度－作操練與獎賞",
-    "category": "國度"
+    "title": "今天神的國度",
+    "category": "國度",
+    "subcategory": "作操練與獎賞"
   },
   {
     "id": "752",
-    "title": "榮耀的盼望－等候與儆醒",
-    "category": "榮耀的盼望"
+    "title": "耶穌要來獎賞祂的僕人",
+    "category": "榮耀的盼望",
+    "subcategory": "等候與儆醒"
+  },
+  {
+    "id": "753",
+    "title": "主耶穌我正等待",
+    "category": "榮耀的盼望",
+    "subcategory": "等候與儆醒"
+  },
+  {
+    "id": "754",
+    "title": "主必親自從天降臨",
+    "category": "榮耀的盼望",
+    "subcategory": "等候與儆醒"
+  },
+  {
+    "id": "755",
+    "title": "榮耀榮耀基督快再臨",
+    "category": "榮耀的盼望",
+    "subcategory": "等候與儆醒"
   },
   {
     "id": "756",
-    "title": "榮耀的盼望－渴望與祈求",
-    "category": "榮耀的盼望"
+    "title": "我王必定快要再臨",
+    "category": "榮耀的盼望",
+    "subcategory": "渴望與祈求"
+  },
+  {
+    "id": "757",
+    "title": "來罷親愛主",
+    "category": "榮耀的盼望",
+    "subcategory": "渴望與祈求"
+  },
+  {
+    "id": "758",
+    "title": "自伯大尼你與我們分手後",
+    "category": "榮耀的盼望",
+    "subcategory": "渴望與祈求"
+  },
+  {
+    "id": "759",
+    "title": "等到何日恩主纔回來",
+    "category": "榮耀的盼望",
+    "subcategory": "渴望與祈求"
+  },
+  {
+    "id": "760",
+    "title": "你來就來",
+    "category": "榮耀的盼望",
+    "subcategory": "渴望與祈求"
+  },
+  {
+    "id": "761",
+    "title": "主耶穌主耶穌",
+    "category": "榮耀的盼望",
+    "subcategory": "渴望與祈求"
+  },
+  {
+    "id": "762",
+    "title": "是否須再等幾年",
+    "category": "榮耀的盼望",
+    "subcategory": "渴望與祈求"
   },
   {
     "id": "763",
-    "title": "榮耀的盼望－基督作榮耀",
-    "category": "榮耀的盼望"
+    "title": "榮耀盼望是基督",
+    "category": "榮耀的盼望",
+    "subcategory": "基督作榮耀"
   },
   {
     "id": "764",
-    "title": "榮耀的盼望－基督在我裡面",
-    "category": "榮耀的盼望"
+    "title": "歷代隱藏奧祕",
+    "category": "榮耀的盼望",
+    "subcategory": "基督在我裡面"
   },
   {
     "id": "765",
-    "title": "榮耀的盼望－與主相見",
-    "category": "榮耀的盼望"
+    "title": "當我恩主降臨時候",
+    "category": "榮耀的盼望",
+    "subcategory": "與主相見"
   },
   {
     "id": "766",
-    "title": "榮耀的盼望－終極的救恩",
-    "category": "榮耀的盼望"
+    "title": "榮耀盼望基督再臨",
+    "category": "榮耀的盼望",
+    "subcategory": "終極的救恩"
   },
   {
     "id": "767",
-    "title": "榮耀的盼望－神眾子的顯出",
-    "category": "榮耀的盼望"
+    "title": "受造之物切望等候",
+    "category": "榮耀的盼望",
+    "subcategory": "神眾子的顯出"
   },
   {
     "id": "768",
-    "title": "終極的顯出－神中心的思想",
-    "category": "終極的顯出"
+    "title": "阿神中心的觀念",
+    "category": "終極的顯出",
+    "subcategory": "神中心的思想"
   },
   {
     "id": "769",
-    "title": "終極的顯出－神永遠的心意",
-    "category": "終極的顯出"
+    "title": "神的永遠心意",
+    "category": "終極的顯出",
+    "subcategory": "神永遠的心意"
   },
   {
     "id": "770",
-    "title": "終極的顯出－我們的目標",
-    "category": "終極的顯出"
+    "title": "哦主撒冷是你所建設",
+    "category": "終極的顯出",
+    "subcategory": "我們的目標"
+  },
+  {
+    "id": "771",
+    "title": "城城榮美城",
+    "category": "終極的顯出",
+    "subcategory": "我們的目標"
+  },
+  {
+    "id": "772",
+    "title": "聖城同救主是我們目標",
+    "category": "終極的顯出",
+    "subcategory": "我們的目標"
+  },
+  {
+    "id": "773",
+    "title": "當我跑盡應跑道路",
+    "category": "終極的顯出",
+    "subcategory": "我們的目標"
   },
   {
     "id": "774",
-    "title": "終極的顯出－聖城",
-    "category": "終極的顯出"
+    "title": "在起初時候",
+    "category": "終極的顯出",
+    "subcategory": "聖城"
+  },
+  {
+    "id": "775",
+    "title": "哦主耶穌你的贖民",
+    "category": "終極的顯出",
+    "subcategory": "聖城"
   },
   {
     "id": "776",
-    "title": "終極的顯出－新耶路撒冷",
-    "category": "終極的顯出"
+    "title": "何等榮耀何等光明",
+    "category": "終極的顯出",
+    "subcategory": "新耶路撒冷"
+  },
+  {
+    "id": "777",
+    "title": "看她有神的形像",
+    "category": "終極的顯出",
+    "subcategory": "新耶路撒冷"
   },
   {
     "id": "778",
-    "title": "終極的顯出－新婦與帳幕",
-    "category": "終極的顯出"
+    "title": "全部聖經新舊兩約",
+    "category": "終極的顯出",
+    "subcategory": "新婦與帳幕"
   },
   {
     "id": "779",
-    "title": "終極的顯出－基督歸一萬有",
-    "category": "終極的顯出"
+    "title": "在基督裏歸一萬有",
+    "category": "終極的顯出",
+    "subcategory": "基督歸一萬有"
   },
   {
     "id": "780",
-    "title": "終極的顯出－永世的生活",
-    "category": "終極的顯出"
+    "title": "那日我神的寶貝",
+    "category": "終極的顯出",
+    "subcategory": "永世的生活"
   },
   {
     "id": "附1",
-    "title": "讚美主－一般",
-    "category": "附"
+    "title": "頌讚與尊貴與榮耀歸你",
+    "category": "讚美主",
+    "subcategory": "一般"
   },
   {
     "id": "附2",
-    "title": "讚美主－一般",
-    "category": "附"
+    "title": "阿利路、阿利路",
+    "category": "讚美主",
+    "subcategory": "一般"
   },
   {
     "id": "附3",
-    "title": "福音－宇宙的奧秘",
-    "category": "附"
+    "title": "諸天述說神的榮耀",
+    "category": "福音",
+    "subcategory": "宇宙的奧祕"
   },
   {
     "id": "附4",
-    "title": "福音－人生的意義",
-    "category": "附"
+    "title": "人是神造的容器",
+    "category": "福音",
+    "subcategory": "人生的意義"
   },
   {
     "id": "附5",
-    "title": "經歷神－神人聯調",
-    "category": "附"
+    "title": "何大神蹟！何深奧祕！",
+    "category": "經歷神",
+    "subcategory": "神人聯調"
   },
   {
     "id": "附6",
-    "title": "經歷神－神完整的救恩",
-    "category": "附"
+    "title": "神，你生命所施拯救",
+    "category": "經歷神",
+    "subcategory": "神完整的救恩"
   }
 ]
