@@ -142,7 +142,24 @@
   - 將進度報告同步至 KB-Vault：`Projects/open-code/_worklog.md`
   - KB-Vault 本地 commit：`c5f15c5`
   - 將 `tmp_pdf_txt/` 加入 `.gitignore`，避免臨時轉檔被提交
+  - 本工作區 commit：`4e6828e`
 - **6 首暫無歌詞原因**：
   - 第 180 首在 hymnal.net 為外部連結（gracefinder.com），未抓取
   - 附1~附6 在 hymnal.net 的 URL 路徑與一般編號不同，尚未對應
-- **本工作區 commit 待執行**：`hymn-app/` + `_worklog.md` + `.gitignore`
+
+## 2026-06-22 — 詩歌 app 轉交 mimocode + 開工收工文件搜尋 ✅
+
+- **事件**：Jacob 指示詩歌點播網頁改由 **MiMoCode** 接手處理
+- **執行項目**：
+  - 提供開工/收工 skill 給 Jacob：
+    - `~/.codex/skills/startup-sync/SKILL.md`
+    - `~/.codex/skills/shutdown-sync/SKILL.md`
+  - 搜尋並比對其他開工/收工 SOP 文件：
+    - KB-Vault `參考資料/Hermes新人訓練安全版.md`（新人訓練 + 安全規則 + 開工收工流程）
+    - `~/Projects/2026 codex/docs/專案工作流程.md`（Codex 專案開工/收工流程）
+    - `~/Projects/2026 antig2/ANTIGRAVITY.md`（AntiGravity 懶人包開工/收工/初始化流程）
+  - `Documents/Obsidian Vault/` 無相關開工收工文件
+- **狀態**：
+  - 詩歌 app 後續由 MiMoCode 接手
+  - 開工/收工 SOP 最終交付版本待 Jacob / AntiGravity 確認
+  - Home OC 不再主動處理詩歌 app 程式碼修改
