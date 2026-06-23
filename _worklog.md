@@ -163,3 +163,17 @@
   - 詩歌 app 後續由 MiMoCode 接手
   - 開工/收工 SOP 最終交付版本待 Jacob / AntiGravity 確認
   - Home OC 不再主動處理詩歌 app 程式碼修改
+
+## 2026-06-23 — AGENTS.md 同步團隊共識 ✅
+
+- **事件**：Jacob 指示讀取 antig2 新團隊共識並同步至 Home OC 工作區
+- **來源**：`/Users/jacob/Projects/2026 antig2/團隊共識-開工收工初始化.md`（2026-06-22 建立）
+  - 這份正是前次一直找不到的「開工/收工說明」— 由 Claude 在 6/22 統一建立
+- **同步至 `AGENTS.md` 的變更**：
+  - 開工 SOP：加入讀 `團隊共識-開工收工初始化.md` + `團隊專區.md`「📋 今日重點」+ 限制載入規則
+  - 收工 SOP：新增安全掃描步驟（api_key/token/secret 等敏感字）、`git add .` 禁令、治理 repo 只 stage 不 commit/push（AG 統一執行）
+  - 新增 Agent 分工矩陣（6 人：Claude/AG/Codex/OpenCode/Hermes/n8n）
+  - 新增 Loop Engineering 5 條防護規則
+  - 安全鐵律獨立成章（5 條）
+  - 禁止事項新增「不用 `git add .`」
+  - 狀態更新：詩歌 app 轉交 MiMoCode，最後同步日期 2026-06-23
