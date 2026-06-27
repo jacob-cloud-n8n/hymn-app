@@ -178,25 +178,15 @@
   - 安全鐵律獨立成章（5 條）
   - 禁止事項新增「不用 `git add .`」
   - 狀態更新：詩歌 app 轉交 MiMoCode，最後同步日期 2026-06-23
-- **Commit**：`80c6062`（本工作區）+ `c5f15c5`（KB-Vault，未 push）
+- **Commit**：`80c6062`（本工作區）+ `a5e7918`（收工記錄）
 
-### 2. 團隊工作流改善提案（已 stage 至 antig2，待 AG review）
-- **提案 A**：`團隊專區.md`「📋 今日重點」加「阻塞於」欄位
-- **提案 B**：收工 stage 自動通知 AG（n8n 日報掃描 + Telegram 推送）
-- **提案 C**：OpenCode → Codex 前置審查機制（8 項自動檢查 + pre-review report）
-- **檔案位置**：
-  - `antig2/.tasks/workflow-improvement-proposals-2026-06-23.md`（給 AG）
-  - `antig2/.tasks/opencode-codex-pre-review-proposal-2026-06-23.md`（給 Codex）
-- **狀態**：已 `git add` stage，未 commit，待 AG 統一處理
+## 2026-06-27 — 開工 + 簡報查找 ✅
 
-### 3. OpenCode Go 推薦碼機制確認
-- **來源**：Jacob 提供 Console 截圖「邀請朋友」頁面
-- **結論**：
-  - 朋友**首次訂閱 Go** 時，雙方各得 $5 額度
-  - **續訂不會再觸發**額外額度（一次性拉新獎勵）
-  - 官網公開文件未提及此機制，僅在 Console 後台顯示
-
-### 4. 團隊分工改善討論
-- Jacob 詢問如何調整團隊分工以減少 Codex 壓力
-- 已提出 4 點觀察：Codex 單點風險、開工文件過重、任務狀態不夠細、收工回報無閉環
-- Jacob 指示將 3、4 點整理成提案給 AG 評估
+- **開工摘要**：
+  - 團隊共識已更新至 2026-06-25：新增「團隊通訊協議」章節
+  - 🎉 提案 A（「阻塞於」欄位）已被 AG 採納並實施
+  - `團隊專區.md`：OpenCode 暫緩，無指派任務
+- **執行項目**：
+  - 協助查找「隨身書僮簡報第一課」→ `antig2/草屯班簡報/第1堂-認識AI書僮/index.html`
+  - htmlpreview 失敗（400）、local server 端口衝突，最終用 `open` 在瀏覽器開啟 ✅
+- **狀態**：待命中 🟢
