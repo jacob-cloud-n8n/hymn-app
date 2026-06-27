@@ -190,3 +190,27 @@
   - 協助查找「隨身書僮簡報第一課」→ `antig2/草屯班簡報/第1堂-認識AI書僮/index.html`
   - htmlpreview 失敗（400）、local server 端口衝突，最終用 `open` 在瀏覽器開啟 ✅
 - **狀態**：待命中 🟢
+
+## 2026-06-27（晚間）— Gmail 收件匣清理 + 自動分類篩選器 ✅
+
+- **事件**：Jacob 請求整理 Gmail 收件匣（長年未整理，約 201 封）
+- **執行項目**：
+  1. **OAuth 重新授權**：發現既有 token 過期，引導 Jacob 執行 `gmail_reauth.py` 重新授權
+  2. **預覽確認**：顯示將刪除/封存的郵件樣本主旨，Jacob 確認 OK 後執行
+  3. **批次清理**：
+     - 🗑 刪除超過 2 年的郵件 → 垃圾桶
+     - 📦 封存 1-2 年的郵件 → 移除 INBOX 標籤
+     - 最終收件匣只剩 2026-06-26~27 的最新郵件
+  4. **建立 5 個自動分類篩選器**：
+     - `01-急/需回覆`：團隊來信 + error/urgent/緊急主旨
+     - `02-團隊/AI`：Codex/Hermes/AG/Claude/n8n/MiMoCode 來信
+     - `03-客戶專案`：美地/琢石/STAR/書僮/課程/合約等主旨
+     - `04-系統通知`：noreply/GitHub/Firebase/Zeabur/telegram/discord → 自動封存
+     - `05-一般`：（手動歸類，篩選器未涵蓋的郵件）
+- **產出檔案**：
+  - `gmail_cleanup_v2.py`：預覽 + 樣本 + 執行腳本
+  - `gmail_cleanup_fast.py`：batchModify 高效版
+  - `gmail_reauth.py`：OAuth 重新授權腳本
+  - `gmail_create_filters.py`：自動建立篩選器腳本
+  - `gmail-filters.xml`：可匯入 Gmail 的篩選器 XML
+- **狀態**：完成 ✅，收件匣已清空舊信，未來新信自動分類

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- 
+  Gmail 自動分類篩選器
+  匯入方式：Gmail → 設定 → 篩選器和封鎖的地址 → 匯入篩選器
+  這些規則會在**收到新信時**自動套用標籤、分類、標記重要/不重要
+-->
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+  
+  <!-- 1. 緊急標記：來自團隊 + 主旨含 error/urgent → 立即標記 -->
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <apps:property name='from' value='(hermes OR codex OR antigravity OR opencode)'/>
+    <apps:property name='subject' value='(error OR 錯誤 OR urgent OR 緊急 OR down OR crash)'/>
+    <apps:property name='label' value='01-緊急/需立即回覆'/>
+    <apps:property name='shouldStar' value='true'/>
+    <apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+  </entry>
+
+  <!-- 2. 團隊信件 → 02-團隊/AI溝通 -->
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <apps:property name='from' value='(codex OR hermes OR antigravity OR opencode OR mimocode OR claude OR anti-gravity)'/>
+    <apps:property name='shouldArchive' value='false'/>
+    <apps:property name='label' value='02-團隊/AI溝通'/>
+  </entry>
+
+  <!-- 3. n8n 通知 → 02-團隊 + 標記為非重要 -->
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <apps:property name='from' value='n8n'/>
+    <apps:property name='label' value='02-團隊/AI溝通'/>
+    <apps:property name='shouldNeverMarkAsImportant' value='true'/>
+  </entry>
+
+  <!-- 4. 客戶專案關鍵字 → 03-客戶專案 -->
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <apps:property name='subject' value='(美地 OR 琢石 OR 羊奶 OR STAR OR 書僮 OR 課程 OR 客戶 OR client OR invoice OR 合約 OR 報價)'/>
+    <apps:property name='label' value='03-客戶專案'/>
+    <apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+  </entry>
+
+  <!-- 5. 系統/服務通知 → 04-系統通知/自動 + 非重要 -->
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <apps:property name='from' value='(noreply OR no-reply OR notification OR @google.com OR @github.com OR @firebase.com OR @zeabur.com OR @notion.so OR telegram OR discord)'/>
+    <apps:property name='label' value='04-系統通知/自動'/>
+    <apps:property name='shouldNeverMarkAsImportant' value='true'/>
+  </entry>
+
+  <!-- 6. GitHub 通知 → 04-系統 + 歸檔跳過收件匣 -->
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <apps:property name='from' value='(notifications@github.com OR noreply@github.com)'/>
+    <apps:property name='label' value='04-系統通知/自動'/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='shouldNeverMarkAsImportant' value='true'/>
+  </entry>
+
+  <!-- 7. Google 帳號通知 → 04 + 歸檔 -->
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <apps:property name='from' value='(accounts.google.com OR no-reply@accounts.google.com)'/>
+    <apps:property name='label' value='04-系統通知/自動'/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='shouldNeverMarkAsImportant' value='true'/>
+  </entry>
+
+  <!-- 8. Slack / Discord / Telegram 通知 → 04 + 歸檔 -->
+  <entry>
+    <category term='filter'></category>
+    <title>Mail Filter</title>
+    <apps:property name='from' value='(discord OR telegram OR slack)'/>
+    <apps:property name='label' value='04-系統通知/自動'/>
+    <apps:property name='shouldArchive' value='true'/>
+    <apps:property name='shouldNeverMarkAsImportant' value='true'/>
+  </entry>
+
+</feed>
