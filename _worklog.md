@@ -214,3 +214,17 @@
   - `gmail_create_filters.py`：自動建立篩選器腳本
   - `gmail-filters.xml`：可匯入 Gmail 的篩選器 XML
 - **狀態**：完成 ✅，收件匣已清空舊信，未來新信自動分類
+
+## 2026-06-29 — 簡報手機版 RWD 修正 + Firebase 重新部署 ✅
+
+- **事件**：Jacob 回報手機上簡報字體過小
+- **根本原因**：Reveal.js 固定畫布 1280×720，在手機上被極度縮放；media query 又額外壓縮 `font-size: 0.6em`
+- **修正內容**（`關於我們-JacobBusinessOS團隊介紹.html`）：
+  1. **動態畫布**：手機端改為 `window.innerWidth / innerHeight`，移除 Reveal.js 的極度縮放
+  2. **移除字體壓縮**：刪除 `.reveal { font-size: 0.7em }` 等繼續壓小字級的規則
+  3. **保持雙欄布局**：grid 在手機上維持 2 欄，避免單欄過長超出單頁
+  4. **團隊架構列表 RWD**：`.arch-list` 在 768px 以下改為垂直堆疊（名字與描述分行）
+  5. **間距調整**：縮小 padding / margin，讓小手機螢幕更緊湊
+- **部署**：Firebase hosting `jacob-html-slides-2026.web.app` 重新上傳
+- **安全掃描**：git diff 無敏感關鍵字；`.env` 未在 git status 中 ✅
+- **狀態**：完成 ✅
