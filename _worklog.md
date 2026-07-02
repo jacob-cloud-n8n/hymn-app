@@ -234,3 +234,14 @@
 - **開工動作**：讀取團隊共識 v2、團隊專區今日重點、專案儀表板、_worklog 歷史
 - **發現**：OpenCode 在今日重點無任務（草屯書僮已標 [✅ 完成]），所有任務清單均已完成
 - **狀態**：待命 🟢，等待任務指派
+
+## 2026-07-02 — 協助查詢家電補助與退稅資訊 ✅
+
+- **開工動作**：讀取團隊共識、團隊專區今日重點、_worklog 歷史；本工作區與 antig2 皆 clean
+- **任務**：Jacob 請求協助申請經濟部住宅家電汰舊換新節能補助 + 財政部節能電器退稅
+- **執行項目**：
+  1. **經濟部補助**：搜尋並確認官方網址為 `https://save3000.moeaea.gov.tw`（2026/115 年最後一年，每台 3,000 元，1 級能效冷氣/冰箱）
+  2. **財政部退稅**：搜尋並確認官方網址為 `https://www.etax.nat.gov.tw/etwmain/tax-info/purchase-energy-saving-appliance-reduced-commodity-tax-refund-area/consumer-online-apply`（每台最高 2,000 元，購買日起 6 個月內申請，免憑證免讀卡機）
+  3. 彙整應備文件、申請期限、搭配方案（合計最高 5,000 元/台）供 Jacob 參考
+- **安全掃描**：git diff 無敏感關鍵字；`.env` 未在 git status 中 ✅
+- **狀態**：完成 ✅，Jacob 已確認申請完成
